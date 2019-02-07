@@ -19,14 +19,17 @@
   }
 
 .map {
-    height:530px;
+    height:520px;
     width:100%;
     pointer-events:none;
 }
 
+.chatter {
+    font-size:0.9em;
+}
+
 .slide {
-    display:inline-block;
-    width:49.4%;
+    width:100%;
     vertical-align: top;
 }
 
@@ -85,6 +88,32 @@
     background-color: #0D4673;
   }
 
+  /*ORANGE SHADED RAMP*/
+  .orange1 {
+    fill: #F2D2A4;
+    background-color: #F2D2A4;
+  }
+  
+  .orange2 {
+    fill: #F2AF80;
+    background-color: #F2AF80;
+  }
+  
+  .orange3 {
+    fill: #E07242;
+    background-color: #E07242;
+  }
+  
+  .orange4 {
+    fill: #C2421F;
+    background-color: #C2421F;
+  }
+  
+  .orange5 {
+    fill: #822010;
+    background-color: #822010;
+  }
+
 @media (max-width:600px) {
 
 }
@@ -97,10 +126,6 @@
         margin-top:8px;
     }
 
-    .map {
-        height:400px;
-        width:100%;
-    }
 }
 
 //mapbox styles
