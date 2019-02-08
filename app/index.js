@@ -89,12 +89,32 @@ var map = new mapboxgl.Map({
     minZoom: mzoom
 });
 
-// map.addControl(new mapboxgl.NavigationControl());
+map.addControl(new mapboxgl.NavigationControl());
 map.scrollZoom.disable();
 map.doubleClickZoom.disable();
 
 
 map.on('load', function() {
+
+//CITY
+map.addSource('mpls', {
+    type: 'geojson',
+    data: './shapefiles/minneapolis.geojson'
+  });
+ 
+   map.addLayer({
+        'id': 'mpls-layer',
+        'interactive': true,
+        'source': 'mpls',
+        'layout': {},
+        'type': 'fill',
+             'paint': {
+            'fill-antialias' : true,
+            'fill-opacity': 1,
+            'fill-color': 'rgba(255, 255, 255, 0)',
+            'fill-outline-color': '#888888'
+      }
+    }, 'road-primary');
 
 //TAGS
  map.addSource('tags', {
