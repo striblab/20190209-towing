@@ -77,8 +77,8 @@ if (selected == "all") {
 
 mapboxgl.accessToken = 'pk.eyJ1Ijoic2hhZG93ZmxhcmUiLCJhIjoiS3pwY1JTMCJ9.pTSXx_LFgR3XBpCNNxWPKA';
 
-var dzoom = 10.3;
-var mzoom = 10.3;
+var dzoom = 10.5;
+var mzoom = 10.5;
 
 var map = new mapboxgl.Map({
     container: 'tags', // container id
@@ -89,12 +89,32 @@ var map = new mapboxgl.Map({
     minZoom: mzoom
 });
 
-// map.addControl(new mapboxgl.NavigationControl());
+map.addControl(new mapboxgl.NavigationControl());
 map.scrollZoom.disable();
 map.doubleClickZoom.disable();
 
 
 map.on('load', function() {
+
+//CITY
+map.addSource('mpls', {
+    type: 'geojson',
+    data: './shapefiles/minneapolis.geojson'
+  });
+ 
+   map.addLayer({
+        'id': 'mpls-layer',
+        'interactive': true,
+        'source': 'mpls',
+        'layout': {},
+        'type': 'fill',
+             'paint': {
+            'fill-antialias' : true,
+            'fill-opacity': 1,
+            'fill-color': 'rgba(255, 255, 255, 0)',
+            'fill-outline-color': '#888888'
+      }
+    }, 'road-primary');
 
 //TAGS
  map.addSource('tags', {
@@ -138,66 +158,81 @@ map.on('load', function() {
      }
    }, 'road-primary');
 
+
+map.addSource('tows', {
+  type: 'geojson',
+  data: './shapefiles/tows.geojson'
 });
 
+        map.addLayer({
+                 "id": "tows-layer",
+                 "type": "circle",
+                 "source": "tows",
+                 "paint": {
+                    "circle-radius": 2,
+                    "circle-color": '#E07242',
+                    "circle-opacity": 0.6
+                 }
+                 // "filter": ["==", "disp_cat", "incident"]
+       }, 'place-neighbourhood');
 
-var map2 = new mapboxgl.Map({
-    container: 'tows', // container id
-    style: 'mapbox://styles/shadowflare/ciqzo0bu20004bknkbrhrm6wf',
-    // center: [-93.264313, 44.973269], 
-    center: [-93.264313, 44.973269], 
-    zoom: dzoom,
-    minZoom: mzoom
-});
+// var map2 = new mapboxgl.Map({
+//     container: 'tows', // container id
+//     style: 'mapbox://styles/shadowflare/ciqzo0bu20004bknkbrhrm6wf',
+//     // center: [-93.264313, 44.973269], 
+//     center: [-93.264313, 44.973269], 
+//     zoom: dzoom,
+//     minZoom: mzoom
+// });
 
-// map2.addControl(new mapboxgl.NavigationControl());
-map2.scrollZoom.disable();
-map2.doubleClickZoom.disable();
+// // map2.addControl(new mapboxgl.NavigationControl());
+// map2.scrollZoom.disable();
+// map2.doubleClickZoom.disable();
 
 
-map2.on('load', function() {
+// map2.on('load', function() {
 
-//TOWS
- map2.addSource('tows', {
-   type: 'geojson',
-   data: './shapefiles/tows_hex.geojson'
- });
+// //TOWS
+//  map2.addSource('tows', {
+//    type: 'geojson',
+//    data: './shapefiles/tows_hex.geojson'
+//  });
 
-  map2.addLayer({
-       'id': 'tows-layer',
-       'interactive': true,
-       'source': 'tows',
-       'layout': {},
-       'type': 'fill',
-            'paint': {
-           'fill-antialias' : true,
-           'fill-opacity': 0.7,
-           'fill-color': {
-            "property": "NUMPOINTS",
-            "stops": [
-              [0, "rgba(255, 255, 255, 0)"],
-              [1, "#D1E6E1"],
-              [10, "#A7E6E3"],
-              [20, "#67B4C2"],
-              [30, "#3580A3"],
-              [40, "#0D4673"],
-              [50, "#0D4673"]
-           ]
-        },
-           'fill-outline-color': {
-            "property": "NUMPOINTS",
-            "stops": [
-              [0, "rgba(255, 255, 255, 0)"],
-              [1, "#888888"],
-              [20, "#888888"],
-              [40, "#888888"],
-              [60, "#888888"],
-              [80, "#888888"],
-              [100, "#888888"]
-           ]
-        }
-     }
-   }, 'road-primary');
+//   map2.addLayer({
+//        'id': 'tows-layer',
+//        'interactive': true,
+//        'source': 'tows',
+//        'layout': {},
+//        'type': 'fill',
+//             'paint': {
+//            'fill-antialias' : true,
+//            'fill-opacity': 0.7,
+//            'fill-color': {
+//             "property": "NUMPOINTS",
+//             "stops": [
+//               [0, "rgba(255, 255, 255, 0)"],
+//               [1, "#D1E6E1"],
+//               [10, "#A7E6E3"],
+//               [20, "#67B4C2"],
+//               [30, "#3580A3"],
+//               [40, "#0D4673"],
+//               [50, "#0D4673"]
+//            ]
+//         },
+//            'fill-outline-color': {
+//             "property": "NUMPOINTS",
+//             "stops": [
+//               [0, "rgba(255, 255, 255, 0)"],
+//               [1, "#888888"],
+//               [20, "#888888"],
+//               [40, "#888888"],
+//               [60, "#888888"],
+//               [80, "#888888"],
+//               [100, "#888888"]
+//            ]
+//         }
+//      }
+//    }, 'road-primary');
 
 });
 
@@ -208,22 +243,22 @@ $(document).ready(function() {
         zoom: mzoom,
         minZoom: mzoom
       });
-      map2.flyTo({
-        center: [-93.264313, 44.973269], 
-        zoom: mzoom,
-        minZoom: mzoom
-      });
+      // map2.flyTo({
+      //   center: [-93.264313, 44.973269], 
+      //   zoom: mzoom,
+      //   minZoom: mzoom
+      // });
   } else {
       map.flyTo({
         center: [-93.264313, 44.973269],  
         zoom: dzoom,
         minZoom: mzoom
       });
-      map2.flyTo({
-        center: [-93.264313, 44.973269],  
-        zoom: dzoom,
-        minZoom: mzoom
-      });
+      // map2.flyTo({
+      //   center: [-93.264313, 44.973269],  
+      //   zoom: dzoom,
+      //   minZoom: mzoom
+      // });
   }
   $(window).resize(function() {
       if ($("#wrapper").width() < 600) {
@@ -232,22 +267,22 @@ $(document).ready(function() {
             zoom: mzoom,
             minZoom: mzoom
           });
-          map2.flyTo({
-            center: [-93.264313, 44.973269],  
-            zoom: mzoom,
-            minZoom: mzoom
-          });
+          // map2.flyTo({
+          //   center: [-93.264313, 44.973269],  
+          //   zoom: mzoom,
+          //   minZoom: mzoom
+          // });
       } else {
           map.flyTo({
             center: [-93.264313, 44.973269],  
             zoom: dzoom,
             minZoom: mzoom
           });
-          map2.flyTo({
-            center: [-93.264313, 44.973269],  
-            zoom: dzoom,
-            minZoom: mzoom
-          });
+          // map2.flyTo({
+          //   center: [-93.264313, 44.973269],  
+          //   zoom: dzoom,
+          //   minZoom: mzoom
+          // });
       }
   });
 });
