@@ -156,7 +156,7 @@ map.addSource('mpls', {
            ]
         }
      }
-   }, 'road-primary');
+   }, 'road-street');
 
 
 map.addSource('tows', {
