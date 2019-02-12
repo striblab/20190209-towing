@@ -1,0 +1,618 @@
+﻿X,Y,OBJECTID,Service_Da,Address,Tow_Reason,Latitude,Longitude,Ward,Community,Neighborho,Tow_Zone,Day,Snow_Emergency
+-93.262331,44.943518,1,01/28/2019 09:22pm,"3241 CHICAGO AVE S,Minneapolis,MN",Snow Emergency,44.943518,-93.262331,9,Powderhorn,Powderhorn Park,6,1,Quincy
+-93.262914,44.942566,2,01/28/2019 09:33pm,"3318 CHICAGO AVE S,Minneapolis,MN",Snow Emergency,44.942566,-93.262914,9,Powderhorn,Central,5,1,Quincy
+-93.261746,44.942742,3,01/28/2019 09:36pm,"3320 CHICAGO AVE S,Minneapolis,MN",Snow Emergency,44.942742,-93.261746,9,Powderhorn,Powderhorn Park,6,1,Quincy
+-93.237383,45.031446,4,01/28/2019 09:42pm,"3500 Johnson ST NE ,Minneapolis,MN",Snow Emergency,45.031446,-93.237383,1,Northeast,Waite Park,2,1,Quincy
+-93.252653,44.94122,5,01/28/2019 09:46pm,"3400 blk of johnson,Minneapolis,MN",Snow Emergency,44.94122,-93.252653,9,Powderhorn,Powderhorn Park,6,1,Quincy
+-93.280493,44.967604,6,01/28/2019 09:51pm,"125 W 15TH ST,Minneapolis,MN",Snow Emergency,44.967604,-93.280493,7,Central,Loring Park,3,1,Quincy
+-93.237191,45.006101,7,01/28/2019 09:55pm,"1800 blk johnson st ne,Minneapolis,MN",Snow Emergency,45.006101,-93.237191,1,Northeast,Windom Park,2,1,Quincy
+-93.283101,44.967553,8,01/28/2019 09:59pm,"315 W 15TH ST ,Minneapolis,MN",Snow Emergency,44.967553,-93.283101,7,Central,Loring Park,3,1,Quincy
+-93.262996,44.946216,9,01/28/2019 10:00pm,"3110 CHICAGO AVE S,Minneapolis,MN",Snow Emergency,44.946216,-93.262996,9,Powderhorn,Central,5,1,Quincy
+-93.237397,45.009758,10,01/28/2019 10:00pm,"2200 blk johnson st ne,Minneapolis,MN",Snow Emergency,45.009758,-93.237397,1,Northeast,Windom Park,2,1,Quincy
+-93.269908,44.968065,11,01/28/2019 10:00pm,"310 E 15TH ST ,Minneapolis,MN",Snow Emergency,44.968065,-93.269908,7,Central,Loring Park,3,1,Quincy
+-93.254406,44.986908,12,01/28/2019 10:03pm,"119 university Ave se,Minneapolis,MN",Snow Emergency,44.986908,-93.254406,3,University,Marcy Holmes,4,1,Quincy
+-93.261746,44.942742,13,01/28/2019 10:04pm,"3320 CHICAGO AVE S,Minneapolis,MN",Snow Emergency,44.942742,-93.261746,9,Powderhorn,Powderhorn Park,6,1,Quincy
+-93.237431,45.029602,14,01/28/2019 10:08pm,"3400 block of johnson st ne,Minneapolis,MN",Snow Emergency,45.029602,-93.237431,1,Northeast,Waite Park,2,1,Quincy
+-93.280149,44.967602,15,01/28/2019 10:11pm,"111 15th Street West,Minneapolis,MN",Snow Emergency,44.967602,-93.280149,7,Central,Loring Park,3,1,Quincy
+-93.262187,44.931727,16,01/28/2019 10:11pm,"3919 CHICAGO AVE S,Minneapolis,MN",Snow Emergency,44.931727,-93.262187,8,Powderhorn,Bancroft,6,1,Quincy
+-93.287759,45.018003,17,01/28/2019 10:12pm,"3444 lyndale Ave n,Minneapolis,MN",Snow Emergency,45.018003,-93.287759,4,Camden,McKinley,1,1,Quincy
+-93.249885,44.984255,18,01/28/2019 10:12pm,"420 university ace se,Minneapolis,MN",Snow Emergency,44.984255,-93.249885,3,University,Marcy Holmes,4,1,Quincy
+-93.271564,44.999181,19,01/28/2019 10:15pm,"00 13th ave ne,Minneapolis,MN",Snow Emergency,44.999181,-93.271564,3,Northeast,Sheridan,2,1,Quincy
+-93.282772,44.967843,20,01/28/2019 10:16pm,"306 15th st w ,Minneapolis,MN",Snow Emergency,44.967843,-93.282772,7,Central,Loring Park,3,1,Quincy
+-93.282678,44.967838,21,01/28/2019 10:19pm,"300 W 15TH ST ,Minneapolis,MN",Snow Emergency,44.967838,-93.282678,7,Central,Loring Park,3,1,Quincy
+-93.288366,45.01746,22,01/28/2019 10:19pm,"3425 LYNDALE AVE N ,Minneapolis,MN",Snow Emergency,45.01746,-93.288366,4,Camden,McKinley,1,1,Quincy
+-93.2789,44.967632,23,01/28/2019 10:20pm,"21 W 15TH ST ,Minneapolis,MN",Snow Emergency,44.967632,-93.2789,7,Central,Loring Park,3,1,Quincy
+-93.283828,44.967728,24,01/28/2019 10:20pm,"341 W 15TH ST ,Minneapolis,MN",Snow Emergency,44.967728,-93.283828,7,Central,Loring Park,3,1,Quincy
+-93.262179,44.935332,25,01/28/2019 10:21pm,"3719 CHICAGO AVE S,Minneapolis,MN",Snow Emergency,44.935332,-93.262179,9,Powderhorn,Powderhorn Park,6,1,Quincy
+-93.278918,44.967718,26,01/28/2019 10:24pm,"23 W 15TH ST ,Minneapolis,MN",Snow Emergency,44.967718,-93.278918,7,Central,Loring Park,3,1,Quincy
+-93.277575,44.968049,27,01/28/2019 10:24pm,"25 E 15TH ST ,Minneapolis,MN",Snow Emergency,44.968049,-93.277575,7,Central,Loring Park,3,1,Quincy
+-93.279026,44.967636,28,01/28/2019 10:25pm,"27 W 15TH ST ,Minneapolis,MN",Snow Emergency,44.967636,-93.279026,7,Central,Loring Park,3,1,Quincy
+-93.262179,44.935332,29,01/28/2019 10:26pm,"3719 CHICAGO AVE S,Minneapolis,MN",Snow Emergency,44.935332,-93.262179,9,Powderhorn,Powderhorn Park,6,1,Quincy
+-93.288408,45.026671,30,01/28/2019 10:26pm,"3931 LYNDALE AVE N ,Minneapolis,MN",Snow Emergency,45.026671,-93.288408,4,Camden,Webber - Camden,1,1,Quincy
+-93.237431,45.029602,31,01/28/2019 10:29pm,"3400 block of johnson st ne,Minneapolis,MN",Snow Emergency,45.029602,-93.237431,1,Northeast,Waite Park,2,1,Quincy
+-93.262084,44.931727,32,01/28/2019 10:29pm,"3917 CHICAGO AVE S,Minneapolis,MN",Snow Emergency,44.931727,-93.262084,8,Powderhorn,Bancroft,6,1,Quincy
+-93.271564,44.999181,33,01/28/2019 10:31pm,"00 block of 13th ave ne,Minneapolis,MN",Snow Emergency,44.999181,-93.271564,3,Northeast,Sheridan,2,1,Quincy
+-93.268562,44.967714,34,01/28/2019 10:36pm,"501 15th Street East,Minneapolis,MN",Snow Emergency,44.967714,-93.268562,6,Central,Elliot Park,3,1,Quincy
+-93.249027,44.984477,35,01/28/2019 10:37pm,"500 block of university avse,Minneapolis,MN",Snow Emergency,44.984477,-93.249027,3,University,Marcy Holmes,4,1,Quincy
+-93.288383,45.017514,36,01/28/2019 10:38pm,"3427 LYNDALE AVE N ,Minneapolis,MN",Snow Emergency,45.017514,-93.288383,4,Camden,McKinley,1,1,Quincy
+-93.232745,44.982327,37,01/28/2019 10:39pm,"611 15th st e,Minneapolis,MN",Snow Emergency,44.982327,-93.232745,3,University,Marcy Holmes,4,1,Quincy
+-93.262512,44.893606,38,01/28/2019 10:42pm,"6019 CHICAGO AVE S,Minneapolis,MN",Snow Emergency,44.893606,-93.262512,11,Nokomis,Diamond Lake,6,1,Quincy
+-93.270602,44.919538,39,01/28/2019 10:45pm,"4600 4TH AVE S,Minneapolis,MN",Snow Emergency,44.919538,-93.270602,8,Nokomis,Field,5,1,Quincy
+-93.249027,44.984477,40,01/28/2019 10:47pm,"500 UNIVERSITY AVE SE,Minneapolis,MN",Snow Emergency,44.984477,-93.249027,3,University,Marcy Holmes,4,1,Quincy
+-93.291165,45.049456,41,01/28/2019 10:48pm,"5200 BRYANT AVE N ,Minneapolis,MN",Snow Emergency,45.049456,-93.291165,4,Camden,Lind - Bohanon,1,1,Quincy
+-93.277391,44.968286,42,01/28/2019 10:49pm,"#6 E 15TH ST ,Minneapolis,MN",Snow Emergency,44.968286,-93.277391,7,Central,Loring Park,3,1,Quincy
+-93.24952,44.985,43,01/28/2019 10:49pm,"421 UNIVERSITY AVE SE,Minneapolis,MN",Snow Emergency,44.985,-93.24952,3,University,Marcy Holmes,4,1,Quincy
+-93.285887,44.968399,44,01/28/2019 10:49pm,"605 15TH ST E,Minneapolis,MN",Snow Emergency,44.968399,-93.285887,7,Central,Loring Park,3,1,Quincy
+-93.252725,44.925916,45,01/28/2019 10:53pm,"4228 BLOOMINGTON AVE S,Minneapolis,MN",Snow Emergency,44.925916,-93.252725,8,Nokomis,Northrop,6,1,Quincy
+-93.26738,44.967821,46,01/28/2019 10:53pm,"603 E 15TH ST ,Minneapolis,MN",Snow Emergency,44.967821,-93.26738,6,Central,Elliot Park,3,1,Quincy
+-93.246811,45.018975,47,01/28/2019 10:54pm,"2801 CENTRAL AVE NE,Minneapolis,MN",Snow Emergency,45.018975,-93.246811,1,Northeast,Audubon Park,2,1,Quincy
+-93.264184,44.968348,48,01/28/2019 10:54pm,"714 E 15TH ST ,Minneapolis,MN",Snow Emergency,44.968348,-93.264184,7,Central,Elliot Park,3,1,Quincy
+-93.266973,44.968324,49,01/28/2019 10:55pm,"608 E 15TH ST ,Minneapolis,MN",Snow Emergency,44.968324,-93.266973,7,Central,Elliot Park,3,1,Quincy
+-93.291219,45.047684,50,01/28/2019 10:57pm,"5100 BRYANT AVE N ,Minneapolis,MN",Snow Emergency,45.047684,-93.291219,4,Camden,Lind - Bohanon,1,1,Quincy
+-93.246811,45.018975,51,01/28/2019 10:57pm,"2801 CENTRAL AVE NE,Minneapolis,MN",Snow Emergency,45.018975,-93.246811,1,Northeast,Audubon Park,2,1,Quincy
+-93.252136,44.940657,52,01/28/2019 10:59pm,"3421 BLOOMINGTON AVE S,Minneapolis,MN",Snow Emergency,44.940657,-93.252136,9,Powderhorn,Powderhorn Park,6,1,Quincy
+-93.246913,45.029625,53,01/28/2019 10:59pm,"3401 CENTRAL AVE NE,Minneapolis,MN",Snow Emergency,45.029625,-93.246913,1,Northeast,Waite Park,2,1,Quincy
+-93.26609,44.967821,54,01/28/2019 11:02pm,"629 E 15TH ST ,Minneapolis,MN",Snow Emergency,44.967821,-93.26609,6,Central,Elliot Park,3,1,Quincy
+-93.313327,45.033542,55,01/28/2019 11:06pm,"4300 thoMAS AVE N,Minneapolis,MN",Snow Emergency,45.033542,-93.313327,4,Camden,Victory,1,1,Quincy
+-93.286781,45.039515,56,01/28/2019 11:08pm,"4634 LYNDALE AVE N ,Minneapolis,MN",Snow Emergency,45.039515,-93.286781,4,Camden,Camden Industrial,1,1,Quincy
+-93.270631,44.919024,57,01/28/2019 11:09pm,"4620 4th ave s,Minneapolis,MN",Snow Emergency,44.919024,-93.270631,8,Nokomis,Field,5,1,Quincy
+-93.24761,44.983581,58,01/28/2019 11:10pm,"600 UNIVERSITY AVE SE,Minneapolis,MN",Snow Emergency,44.983581,-93.24761,3,University,Marcy Holmes,4,1,Quincy
+-93.263417,44.967838,59,01/28/2019 11:12pm,"729 E 15TH ST ,Minneapolis,MN",Snow Emergency,44.967838,-93.263417,6,Central,Elliot Park,3,1,Quincy
+-93.231826,44.983681,60,01/28/2019 11:12pm,"721 15th st e ,Minneapolis,MN",Snow Emergency,44.983681,-93.231826,3,University,Marcy Holmes,4,1,Quincy
+-93.266588,44.995195,61,01/28/2019 11:14pm,"100 block 8th ave n,Minneapolis,MN",Snow Emergency,44.995195,-93.266588,3,Northeast,St. Anthony West,2,1,Quincy
+-93.270592,44.938914,62,01/28/2019 11:14pm,"3522 4th ave s,Minneapolis,MN",Snow Emergency,44.938914,-93.270592,9,Powderhorn,Central,5,1,Quincy
+-93.246128,44.98304,63,01/28/2019 11:17pm,"700 block of university Ave se,Minneapolis,MN",Snow Emergency,44.98304,-93.246128,3,University,Marcy Holmes,4,1,Quincy
+-93.266578,44.96782,64,01/28/2019 11:17pm,"619 15th st e,Minneapolis,MN",Snow Emergency,44.96782,-93.266578,6,Central,Elliot Park,3,1,Quincy
+-93.24761,44.983581,65,01/28/2019 11:18pm,"600 block University ave se,Minneapolis,MN",Snow Emergency,44.983581,-93.24761,3,University,Marcy Holmes,4,1,Quincy
+-93.246407,44.983368,66,01/28/2019 11:18pm,"7th univ ave se,Minneapolis,MN",Snow Emergency,44.983368,-93.246407,3,University,Marcy Holmes,4,1,Quincy
+-93.263517,44.967842,67,01/28/2019 11:21pm,"727 15th st e ,Minneapolis,MN",Snow Emergency,44.967842,-93.263517,6,Central,Elliot Park,3,1,Quincy
+-93.297056,44.954301,68,01/28/2019 11:22pm,"2639 HENNEPIN AV S,Minneapolis,MN",Snow Emergency,44.954301,-93.297056,10,Calhoun Isle,Lowry Hill East,3,1,Quincy
+-93.24761,44.983581,69,01/28/2019 11:22pm,"600 block University ave se,Minneapolis,MN",Snow Emergency,44.983581,-93.24761,3,University,Marcy Holmes,4,1,Quincy
+-93.270177,44.937756,70,01/28/2019 11:24pm,"3600 Block of 4th ave s,Minneapolis,MN",Snow Emergency,44.937756,-93.270177,8,Powderhorn,Central,5,1,Quincy
+-93.252859,44.909705,71,01/28/2019 11:26pm,"5130 BLOOMINGTON AVE S,Minneapolis,MN",Snow Emergency,44.909705,-93.252859,11,Nokomis,Hale,6,1,Quincy
+-93.270646,44.946507,72,01/28/2019 11:27pm,"3100 Block of 4th Ave s,Minneapolis,MN",Snow Emergency,44.946507,-93.270646,9,Powderhorn,Central,5,1,Quincy
+-93.29739,44.954158,73,01/28/2019 11:27pm,"2643 HENNEPIN AVE,Minneapolis,MN",Snow Emergency,44.954158,-93.29739,10,Calhoun Isle,Lowry Hill East,3,1,Quincy
+-93.262885,44.936306,74,01/28/2019 11:30pm,"3642 CHICAGO AVE S,Minneapolis,MN",Snow Emergency,44.936306,-93.262885,8,Powderhorn,Central,5,1,Quincy
+-93.270504,44.943066,75,01/28/2019 11:30pm,"3300 4TH AVE S,Minneapolis,MN",Snow Emergency,44.943066,-93.270504,9,Powderhorn,Central,5,1,Quincy
+-93.313115,45.026374,76,01/28/2019 11:31pm,"3912 THOMAS AVE N,Minneapolis,MN",Snow Emergency,45.026374,-93.313115,4,Camden,Victory,1,1,Quincy
+-93.284072,44.988051,77,01/28/2019 11:33pm,"1000 5TH ST N ,Minneapolis,MN",Snow Emergency,44.988051,-93.284072,5,Central,North Loop,1,1,Quincy
+-93.279386,44.984716,78,01/28/2019 11:34pm,"600 5TH ST N ,Minneapolis,MN",Snow Emergency,44.984716,-93.279386,5,Central,North Loop,1,1,Quincy
+-93.286407,45.037603,79,01/28/2019 11:34pm,"4542 LYNDALE AVE N ,Minneapolis,MN",Snow Emergency,45.037603,-93.286407,4,Camden,Camden Industrial,1,1,Quincy
+-93.262036,44.933779,80,01/28/2019 11:36pm,"3809 CHICAGO AVE S,Minneapolis,MN",Snow Emergency,44.933779,-93.262036,8,Powderhorn,Bancroft,6,1,Quincy
+-93.252136,44.934826,81,01/28/2019 11:38pm,"3737 BLOOMINGTON AVE S,Minneapolis,MN",Snow Emergency,44.934826,-93.252136,9,Powderhorn,Powderhorn Park,6,1,Quincy
+-93.252805,44.944328,82,01/28/2019 11:38pm,"3208 Bloomington,Minneapolis,MN",Snow Emergency,44.944328,-93.252805,9,Powderhorn,Powderhorn Park,6,1,Quincy
+-93.252745,44.942261,83,01/28/2019 11:38pm,"3320 Bloomington Avenue,Minneapolis,MN",Snow Emergency,44.942261,-93.252745,9,Powderhorn,Powderhorn Park,6,1,Quincy
+-93.294725,44.951574,84,01/28/2019 11:38pm,"2810 Emerson Ave s,Minneapolis,MN",Snow Emergency,44.951574,-93.294725,10,Calhoun Isle,Lowry Hill East,3,1,Quincy
+-93.252686,44.930984,85,01/28/2019 11:38pm,"3944 BLOOMINGTON AVE S,Minneapolis,MN",Snow Emergency,44.930984,-93.252686,8,Powderhorn,Bancroft,6,1,Quincy
+-93.283109,44.967886,86,01/28/2019 11:40pm,"328 15th St W,Minneapolis,MN",Snow Emergency,44.967886,-93.283109,7,Central,Loring Park,3,1,Quincy
+-93.294735,44.951169,87,01/28/2019 11:40pm,"2824 EMERSON AVE S,Minneapolis,MN",Snow Emergency,44.951169,-93.294735,10,Calhoun Isle,Lowry Hill East,3,1,Quincy
+-93.246128,44.98304,88,01/28/2019 11:43pm,"700 block of unniversity se,Minneapolis,MN",Snow Emergency,44.98304,-93.246128,3,University,Marcy Holmes,4,1,Quincy
+-93.252784,44.940911,89,01/28/2019 11:43pm,"3412 BLOOMINGTON AVE S,Minneapolis,MN",Snow Emergency,44.940911,-93.252784,9,Powderhorn,Powderhorn Park,6,1,Quincy
+-93.267091,44.968303,90,01/28/2019 11:45pm,"606 15th St E,Minneapolis,MN",Snow Emergency,44.968303,-93.267091,7,Central,Elliot Park,3,1,Quincy
+-93.246128,44.98304,91,01/28/2019 11:45pm,"700 block university Ave se ,Minneapolis,MN",Snow Emergency,44.98304,-93.246128,3,University,Marcy Holmes,4,1,Quincy
+-93.293672,44.9512,92,01/28/2019 11:46pm,"2816 Dupont ace s,Minneapolis,MN",Snow Emergency,44.9512,-93.293672,10,Calhoun Isle,Lowry Hill East,3,1,Quincy
+-93.245033,44.982807,93,01/28/2019 11:47pm,"8th univ ave se,Minneapolis,MN",Snow Emergency,44.982807,-93.245033,3,University,Marcy Holmes,4,1,Quincy
+-93.281018,45.0167,94,01/28/2019 11:48pm,"3400 block 2nd st. N ,Minneapolis,MN",Snow Emergency,45.0167,-93.281018,4,Camden,McKinley,1,1,Quincy
+-93.24761,44.983581,95,01/28/2019 11:48pm,"600 UNIVERSITY AVE SE,Minneapolis,MN",Snow Emergency,44.983581,-93.24761,3,University,Marcy Holmes,4,1,Quincy
+-93.291534,45.051115,96,01/28/2019 11:49pm,"5299 BRYANT AVE N ,Minneapolis,MN",Snow Emergency,45.051115,-93.291534,4,Camden,Lind - Bohanon,1,1,Quincy
+-93.280378,45.009468,97,01/28/2019 11:51pm,"2900 block 2nd st n,Minneapolis,MN",Snow Emergency,45.009468,-93.280378,5,Near North,Hawthorne,1,1,Quincy
+-93.263596,44.967839,98,01/28/2019 11:53pm,"725 E 15TH ST ,Minneapolis,MN",Snow Emergency,44.967839,-93.263596,6,Central,Elliot Park,3,1,Quincy
+-93.294915,44.951074,99,01/28/2019 11:53pm,"2828 EMERSON AVE S,Minneapolis,MN",Snow Emergency,44.951074,-93.294915,10,Calhoun Isle,Lowry Hill East,3,1,Quincy
+-93.246128,44.98304,100,01/28/2019 11:54pm,"700 UNIVERSITY AVE SE,Minneapolis,MN",Snow Emergency,44.98304,-93.246128,3,University,Marcy Holmes,4,1,Quincy
+-93.263675,44.967839,101,01/28/2019 11:57pm,"723 E 15TH ST ,Minneapolis,MN",Snow Emergency,44.967839,-93.263675,6,Central,Elliot Park,3,1,Quincy
+-93.264058,44.995773,102,01/29/2019 01:00am,"740 2ND ST NE,Minneapolis,MN",Snow Emergency,44.995773,-93.264058,3,Northeast,St. Anthony West,2,1,Quincy
+-93.29944,44.98011,103,01/29/2019 01:01pm,"264 Irving Ave N,Minneapolis,MN",Snow Emergency,44.98011,-93.29944,5,Near North,Harrison,3,2,Quincy
+-93.248288,44.95305,104,01/29/2019 01:02pm,"3 1 04 18 ave s,Minneapolis,MN",Snow Emergency,44.95305,-93.248288,9,Phillips,East Phillips,3,2,Quincy
+-93.251449,44.996251,105,01/29/2019 01:02pm,"638 quincy st ne,Minneapolis,MN",Snow Emergency,44.996251,-93.251449,3,Northeast,St. Anthony East,2,2,Quincy
+-93.275865,44.964078,106,01/29/2019 01:02pm,"114 19th st e,Minneapolis,MN",Snow Emergency,44.964078,-93.275865,6,Central,Steven's Square - Loring Heights,3,2,Quincy
+-93.277834,44.959167,107,01/29/2019 01:03am,"817 2 24TH ST ,Minneapolis,MN",Snow Emergency,44.959167,-93.277834,10,Powderhorn,Whittier,3,1,Quincy
+-93.278261,44.98543,108,01/29/2019 01:04am,"600 4TH ST N ,Minneapolis,MN",Snow Emergency,44.98543,-93.278261,3,Central,North Loop,1,1,Quincy
+-93.241298,45.013179,109,01/29/2019 01:05am,"1268 LOWRY AVE NE,Minneapolis,MN",Snow Emergency,45.013179,-93.241298,1,Northeast,Audubon Park,2,1,Quincy
+-93.283369,44.966295,110,01/29/2019 01:05pm,"302 CLIFTON AVE,Minneapolis,MN",Snow Emergency,44.966295,-93.283369,7,Central,Loring Park,3,2,Quincy
+-93.279334,44.968778,111,01/29/2019 01:07am,"1400 LASALLE AVE ,Minneapolis,MN",Snow Emergency,44.968778,-93.279334,7,Central,Loring Park,3,1,Quincy
+-93.274529,44.963955,112,01/29/2019 01:07pm,"142 19TH ST E,Minneapolis,MN",Snow Emergency,44.963955,-93.274529,6,Central,Steven's Square - Loring Heights,3,2,Quincy
+-93.279336,44.970601,113,01/29/2019 01:08am,"1300 LASALLE AVE ,Minneapolis,MN",Snow Emergency,44.970601,-93.279336,7,Central,Loring Park,3,1,Quincy
+-93.256536,44.946434,114,01/29/2019 01:08pm,"3100 13th ave s,Minneapolis,MN",Snow Emergency,44.946434,-93.256536,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.279334,44.968778,115,01/29/2019 01:09am,"1400 LASALLE AVE ,Minneapolis,MN",Snow Emergency,44.968778,-93.279334,7,Central,Loring Park,3,1,Quincy
+-93.284579,45.003895,116,01/29/2019 01:09am,"2400 4TH ST N ,Minneapolis,MN",Snow Emergency,45.003895,-93.284579,5,Near North,Hawthorne,1,1,Quincy
+-93.249187,45.013164,117,01/29/2019 01:09am,"883 LOWRY AVE NE,Minneapolis,MN",Snow Emergency,45.013164,-93.249187,1,Northeast,Holland,2,1,Quincy
+-93.247212,44.984097,118,01/29/2019 01:09pm,"312 6th ave se ,Minneapolis,MN",Snow Emergency,44.984097,-93.247212,3,University,Marcy Holmes,4,2,Quincy
+-93.279334,44.968778,119,01/29/2019 01:10am,"1400 LASALLE AVE,Minneapolis,MN",Snow Emergency,44.968778,-93.279334,7,Central,Loring Park,3,1,Quincy
+-93.275285,44.96085,120,01/29/2019 01:10pm,"2206 Stevens Ave South,Minneapolis,MN",Snow Emergency,44.96085,-93.275285,10,Powderhorn,Whittier,3,2,Quincy
+-93.278943,44.985788,121,01/29/2019 01:11am,"700 4TH ST N,Minneapolis,MN",Snow Emergency,44.985788,-93.278943,3,Central,North Loop,1,1,Quincy
+-93.248915,44.946432,122,01/29/2019 01:11pm,"3100 18th ave s,Minneapolis,MN",Snow Emergency,44.946432,-93.248915,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.275285,44.96088,123,01/29/2019 01:11pm,"2202 STEVENS AVE S ,Minneapolis,MN",Snow Emergency,44.96088,-93.275285,10,Powderhorn,Whittier,3,2,Quincy
+-93.272829,44.948332,124,01/29/2019 01:12am,"3000 3RD AVE S,Minneapolis,MN",Snow Emergency,44.948332,-93.272829,9,Powderhorn,Central,5,1,Quincy
+-93.279416,45.00393,125,01/29/2019 01:12am,"2400 2ND ST N ,Minneapolis,MN",Snow Emergency,45.00393,-93.279416,5,Near North,Hawthorne,1,1,Quincy
+-93.299086,45.011826,126,01/29/2019 01:13pm,"3012 Irving Ave n,Minneapolis,MN",Snow Emergency,45.011826,-93.299086,5,Near North,Jordan,1,2,Quincy
+-93.245758,44.983513,127,01/29/2019 01:13pm,"326 7th ave se,Minneapolis,MN",Snow Emergency,44.983513,-93.245758,3,University,Marcy Holmes,4,2,Quincy
+-93.266182,45.007453,128,01/29/2019 01:14am,"1900 2nd st ne,Minneapolis,MN",Snow Emergency,45.007453,-93.266182,3,Northeast,Bottineau,2,1,Quincy
+-93.273357,44.987222,129,01/29/2019 01:14am,"500 2ND ST N ,Minneapolis,MN",Snow Emergency,44.987222,-93.273357,3,Central,North Loop,1,1,Quincy
+-93.310495,44.99809,130,01/29/2019 01:14pm,"1812 Russell ave n ,Minneapolis,MN",Snow Emergency,44.99809,-93.310495,5,Near North,Willard - Hay,1,2,Quincy
+-93.290771,45.000675,131,01/29/2019 01:14pm,"2112 BRYANT AVE N,Minneapolis,MN",Snow Emergency,45.000675,-93.290771,5,Near North,Hawthorne,1,2,Quincy
+-93.236924,44.981898,132,01/29/2019 01:15am,"13TH & UNIVERSITY AVE SE,Minneapolis,MN",Snow Emergency,44.981898,-93.236924,3,University,Marcy Holmes,4,1,Quincy
+-93.28306,44.976235,133,01/29/2019 01:15am,"1308 LINDEN AVE ,Minneapolis,MN",Snow Emergency,44.976235,-93.28306,5,Central,North Loop,3,1,Quincy
+-93.299155,44.979431,134,01/29/2019 01:15pm,"244 Irving Ave n,Minneapolis,MN",Snow Emergency,44.979431,-93.299155,5,Near North,Harrison,3,2,Quincy
+-93.275873,44.96079,135,01/29/2019 01:15pm,"2214 Stevens Ave,Minneapolis,MN",Snow Emergency,44.96079,-93.275873,10,Powderhorn,Whittier,3,2,Quincy
+-93.266182,45.007453,136,01/29/2019 01:17am,"1900 2nd st ne,Minneapolis,MN",Snow Emergency,45.007453,-93.266182,3,Northeast,Bottineau,2,1,Quincy
+-93.310485,44.99361,137,01/29/2019 01:17pm,"1404 Russell ave n ,Minneapolis,MN",Snow Emergency,44.99361,-93.310485,5,Near North,Willard - Hay,1,2,Quincy
+-93.275876,44.959969,138,01/29/2019 01:17pm,"2318 Stevens Ave S,Minneapolis,MN",Snow Emergency,44.959969,-93.275876,10,Powderhorn,Whittier,3,2,Quincy
+-93.257898,44.979313,139,01/29/2019 01:18am,"600 2ND AVE N ,Minneapolis,MN",Snow Emergency,44.979313,-93.257898,3,Central,Downtown East,3,1,Quincy
+-93.22203,44.919686,140,01/29/2019 01:18am,"3470 E 46TH ST ,Minneapolis,MN",Snow Emergency,44.919686,-93.22203,12,Nokomis,Ericsson,6,1,Quincy
+-93.276233,44.988836,141,01/29/2019 01:19am,"700 2ND ST N ,Minneapolis,MN",Snow Emergency,44.988836,-93.276233,3,Central,North Loop,1,1,Quincy
+-93.23748,44.984802,142,01/29/2019 01:20pm,"628 11th ave se,Minneapolis,MN",Snow Emergency,44.984802,-93.23748,3,University,Marcy Holmes,4,2,Quincy
+-93.225778,44.959764,143,01/29/2019 01:21pm,"2312 32nd Street East,Minneapolis,MN",Snow Emergency,44.959764,-93.225778,2,Longfellow,Seward,4,2,Quincy
+-93.248919,44.995801,144,01/29/2019 01:22pm,"622 Van Buren st ne,Minneapolis,MN",Snow Emergency,44.995801,-93.248919,3,Northeast,St. Anthony East,2,2,Quincy
+-93.264961,44.997124,145,01/29/2019 01:23am,"900 2ND AVE N,Minneapolis,MN",Snow Emergency,44.997124,-93.264961,3,Northeast,St. Anthony West,2,1,Quincy
+-93.238168,44.944963,146,01/29/2019 01:23pm,"2314 32nd Street East,Minneapolis,MN",Snow Emergency,44.944963,-93.238168,9,Powderhorn,Corcoran,6,2,Quincy
+-93.251435,44.994758,147,01/29/2019 01:23pm,"340 quincy st ne,Minneapolis,MN",Snow Emergency,44.994758,-93.251435,3,Northeast,St. Anthony East,2,2,Quincy
+-93.23133,44.978335,148,01/29/2019 01:24am,"17th Ave between university and 4th st se,Minneapolis,MN",Snow Emergency,44.978335,-93.23133,2,University,University of Minnesota,4,1,Quincy
+-93.245758,44.983513,149,01/29/2019 01:24pm,"326 7th ave se,Minneapolis,MN",Snow Emergency,44.983513,-93.245758,3,University,Marcy Holmes,4,2,Quincy
+-93.261683,44.944393,150,01/29/2019 01:24pm,"3208 Elliott ave,Minneapolis,MN",Snow Emergency,44.944393,-93.261683,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.293147,44.957327,151,01/29/2019 01:25am,"1100 block 25th st ne,Minneapolis,MN",Snow Emergency,44.957327,-93.293147,10,Calhoun Isle,Lowry Hill East,3,1,Quincy
+-93.251408,44.996096,152,01/29/2019 01:25pm,"632 quincy st ne,Minneapolis,MN",Snow Emergency,44.996096,-93.251408,3,Northeast,St. Anthony East,2,2,Quincy
+-93.305617,44.975193,153,01/29/2019 01:26am,"200 block of Cedar Lake Road,Minneapolis,MN",Snow Emergency,44.975193,-93.305617,7,Calhoun Isle,Bryn - Mawr,3,1,Quincy
+-93.240923,44.987471,154,01/29/2019 01:27pm,"726 8th ave se,Minneapolis,MN",Snow Emergency,44.987471,-93.240923,3,University,Marcy Holmes,4,2,Quincy
+-93.243301,44.984376,155,01/29/2019 01:27pm,"426 8th ave se,Minneapolis,MN",Snow Emergency,44.984376,-93.243301,3,University,Marcy Holmes,4,2,Quincy
+-93.207255,44.941704,156,01/29/2019 01:28am,"4600 34RD AVE S,Minneapolis,MN",Snow Emergency,44.941704,-93.207255,2,Longfellow,Cooper,6,1,Quincy
+-93.267964,44.995857,157,01/29/2019 01:28am,"850 marshall st ne,Minneapolis,MN",Snow Emergency,44.995857,-93.267964,3,Northeast,St. Anthony West,2,1,Quincy
+-93.289086,45.029133,158,01/29/2019 01:29pm,"4050 aldrich ave n,Minneapolis,MN",Snow Emergency,45.029133,-93.289086,4,Camden,Webber - Camden,1,2,Quincy
+-93.279534,44.967451,159,01/29/2019 01:30am,"1500 block lasalle,Minneapolis,MN",Snow Emergency,44.967451,-93.279534,7,Central,Loring Park,3,1,Quincy
+-93.239622,44.985698,160,01/29/2019 01:30pm,"612 7th st se,Minneapolis,MN",Snow Emergency,44.985698,-93.239622,3,University,Marcy Holmes,4,2,Quincy
+-93.273118,44.919539,161,01/29/2019 01:31am,"4600 3RD AVE S,Minneapolis,MN",Snow Emergency,44.919539,-93.273118,8,Nokomis,Field,5,1,Quincy
+-93.302856,44.979217,162,01/29/2019 01:31pm,"1708 2nd ave n,Minneapolis,MN",Snow Emergency,44.979217,-93.302856,5,Near North,Harrison,3,2,Quincy
+-93.289057,45.0247,163,01/29/2019 01:32pm,"3824 aldrich av n,Minneapolis,MN",Snow Emergency,45.0247,-93.289057,4,Camden,Webber - Camden,1,2,Quincy
+-93.250208,44.937947,164,01/29/2019 01:32pm,"3554 17th ave s,Minneapolis,MN",Snow Emergency,44.937947,-93.250208,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.275989,44.979528,165,01/29/2019 01:33am,"600 1ST ST N ,Minneapolis,MN",Snow Emergency,44.979528,-93.275989,3,Central,Downtown West,3,1,Quincy
+-93.272775,44.923319,166,01/29/2019 01:33am,"4399 3rd Ave South,Minneapolis,MN",Snow Emergency,44.923319,-93.272775,8,Nokomis,Regina,5,1,Quincy
+-93.310463,44.994012,167,01/29/2019 01:33pm,"1422 Russell Ave n ,Minneapolis,MN",Snow Emergency,44.994012,-93.310463,5,Near North,Willard - Hay,1,2,Quincy
+-93.275644,44.958421,168,01/29/2019 01:34pm,"2420 stevens,Minneapolis,MN",Snow Emergency,44.958421,-93.275644,10,Powderhorn,Whittier,3,2,Quincy
+-93.279334,44.968778,169,01/29/2019 01:35am,"1400 LASALLE AVE ,Minneapolis,MN",Snow Emergency,44.968778,-93.279334,7,Central,Loring Park,3,1,Quincy
+-93.257869,44.979098,170,01/29/2019 01:36am,"600 2ND ST ,Minneapolis,MN",Snow Emergency,44.979098,-93.257869,3,Central,Downtown East,3,1,Quincy
+-93.279334,44.968778,171,01/29/2019 01:36am,"1400 LASALLE AVE ,Minneapolis,MN",Snow Emergency,44.968778,-93.279334,7,Central,Loring Park,3,1,Quincy
+-93.275876,44.959988,172,01/29/2019 01:36pm,"2316 Stevens ave s ,Minneapolis,MN",Snow Emergency,44.959988,-93.275876,10,Powderhorn,Whittier,3,2,Quincy
+-93.310455,44.989805,173,01/29/2019 01:36pm,"1204 Russell Ave n ,Minneapolis,MN",Snow Emergency,44.989805,-93.310455,5,Near North,Willard - Hay,1,2,Quincy
+-93.302919,44.98249,174,01/29/2019 01:36pm,"426 logan av N,Minneapolis,MN",Snow Emergency,44.98249,-93.302919,5,Near North,Harrison,3,2,Quincy
+-93.273118,44.941188,175,01/29/2019 01:37am,"3400 3RD AVE S,Minneapolis,MN",Snow Emergency,44.941188,-93.273118,9,Powderhorn,Central,5,1,Quincy
+-93.290772,45.000816,176,01/29/2019 01:37pm,"2116 BRYANT AVE N ,Minneapolis,MN",Snow Emergency,45.000816,-93.290772,5,Near North,Hawthorne,1,2,Quincy
+-93.277019,44.978025,177,01/29/2019 01:38am,"100 N 8TH AVE ,Minneapolis,MN",Snow Emergency,44.978025,-93.277019,7,Central,Downtown West,3,1,Quincy
+-93.275673,44.958153,178,01/29/2019 01:38pm,"2432 Stevens Avenue South,Minneapolis,MN",Snow Emergency,44.958153,-93.275673,10,Powderhorn,Whittier,3,2,Quincy
+-93.272728,44.928736,179,01/29/2019 01:39am,"4099 3RD AVE S,Minneapolis,MN",Snow Emergency,44.928736,-93.272728,8,Powderhorn,Bryant,5,1,Quincy
+-93.247246,44.984054,180,01/29/2019 01:41pm,"310 6th ave se ,Minneapolis,MN",Snow Emergency,44.984054,-93.247246,3,University,Marcy Holmes,4,2,Quincy
+-93.300806,44.980505,181,01/29/2019 01:42pm,"332 Gramercy ave,Minneapolis,MN",Snow Emergency,44.980505,-93.300806,5,Near North,Harrison,3,2,Quincy
+-93.301436,44.979909,182,01/29/2019 01:43pm,"304 gramercy Ave,Minneapolis,MN",Snow Emergency,44.979909,-93.301436,5,Near North,Harrison,3,2,Quincy
+-93.220082,44.972331,183,01/29/2019 01:44am,"2600 block university ave se,Minneapolis,MN",Snow Emergency,44.972331,-93.220082,2,University,Prospect Park - East River Road,4,1,Quincy
+-93.272829,44.948332,184,01/29/2019 01:44am,"3000 3RD AVE S,Minneapolis,MN",Snow Emergency,44.948332,-93.272829,9,Powderhorn,Central,5,1,Quincy
+-93.244328,44.982935,185,01/29/2019 01:44pm,"308 8TH AVE SE,Minneapolis,MN",Snow Emergency,44.982935,-93.244328,3,University,Marcy Holmes,4,2,Quincy
+-93.290285,45.017328,186,01/29/2019 01:44pm,"3416 Bryant Ave n ,Minneapolis,MN",Snow Emergency,45.017328,-93.290285,4,Camden,McKinley,1,2,Quincy
+-93.249116,45.01325,187,01/29/2019 01:45pm,"2502 Jackson st ne,Minneapolis,MN",Snow Emergency,45.01325,-93.249116,1,Northeast,Holland,2,2,Quincy
+-93.279334,44.968778,188,01/29/2019 01:46am,"1400 LASALLE AVE ,Minneapolis,MN",Snow Emergency,44.968778,-93.279334,7,Central,Loring Park,3,1,Quincy
+-93.237922,44.94495,189,01/29/2019 01:46pm,"2320 32nd st,Minneapolis,MN",Snow Emergency,44.94495,-93.237922,9,Powderhorn,Corcoran,6,2,Quincy
+-93.267971,44.995866,190,01/29/2019 01:47am,"858 MARSHALL ST NE,Minneapolis,MN",Snow Emergency,44.995866,-93.267971,3,Northeast,St. Anthony West,2,1,Quincy
+-93.280145,44.961735,191,01/29/2019 01:47am,"2100 BLAISDELL AV S,Minneapolis,MN",Snow Emergency,44.961735,-93.280145,10,Powderhorn,Whittier,3,1,Quincy
+-93.274558,44.988062,192,01/29/2019 01:48am,"600 2ND ST N ,Minneapolis,MN",Snow Emergency,44.988062,-93.274558,3,Central,North Loop,1,1,Quincy
+-93.237944,44.944974,193,01/29/2019 01:48pm,"2318 32nd st,Minneapolis,MN",Snow Emergency,44.944974,-93.237944,9,Powderhorn,Corcoran,6,2,Quincy
+-93.244021,44.983458,194,01/29/2019 01:49am,"800 BLOCK 4 ST SE,Minneapolis,MN",Snow Emergency,44.983458,-93.244021,3,University,Marcy Holmes,4,1,Quincy
+-93.294667,44.982163,195,01/29/2019 01:49am,"1134 VAN WHITE MEMORIAL ,Minneapolis,MN",Snow Emergency,44.982163,-93.294667,5,Near North,Sumner - Glenwood,3,1,Quincy
+-93.268784,44.997126,196,01/29/2019 01:50am,"930 MARSHALL ST NE,Minneapolis,MN",Snow Emergency,44.997126,-93.268784,3,Northeast,St. Anthony West,2,1,Quincy
+-93.279334,44.966364,197,01/29/2019 01:50am,"1700 LASALLE AVE S,Minneapolis,MN",Snow Emergency,44.966364,-93.279334,7,Central,Loring Park,3,1,Quincy
+-93.244281,44.982996,198,01/29/2019 01:50pm,"310 8TH AVE SE,Minneapolis,MN",Snow Emergency,44.982996,-93.244281,3,University,Marcy Holmes,4,2,Quincy
+-93.275659,44.958188,199,01/29/2019 01:50pm,"2430 Stevens av s,Minneapolis,MN",Snow Emergency,44.958188,-93.275659,10,Powderhorn,Whittier,3,2,Quincy
+-93.279534,44.967451,200,01/29/2019 01:51am,"1500 LASALLE AVE,Minneapolis,MN",Snow Emergency,44.967451,-93.279534,7,Central,Loring Park,3,1,Quincy
+-93.299933,44.947832,201,01/29/2019 01:51pm,"2554 holmes ave,Minneapolis,MN",Snow Emergency,44.947832,-93.299933,10,Calhoun Isle,ECCO,5,2,Quincy
+-93.239622,44.985698,202,01/29/2019 01:51pm,"806 7th st se,Minneapolis,MN",Snow Emergency,44.985698,-93.239622,3,University,Marcy Holmes,4,2,Quincy
+-93.267273,44.996612,203,01/29/2019 01:53am,"909 MARSHALL ST NE,Minneapolis,MN",Snow Emergency,44.996612,-93.267273,3,Northeast,St. Anthony West,2,1,Quincy
+-93.248915,44.945922,204,01/29/2019 01:53pm,"3118 18 ave,Minneapolis,MN",Snow Emergency,44.945922,-93.248915,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.299928,44.938341,205,01/29/2019 01:53pm,"3536 holmes ave,Minneapolis,MN",Snow Emergency,44.938341,-93.299928,10,Calhoun Isle,ECCO,5,2,Quincy
+-93.279334,44.966364,206,01/29/2019 01:55am,"1700 LASALLE AVE ,Minneapolis,MN",Snow Emergency,44.966364,-93.279334,7,Central,Loring Park,3,1,Quincy
+-93.294667,44.982163,207,01/29/2019 01:55am,"1134 VAN WHITE MEM. BLVD,Minneapolis,MN",Snow Emergency,44.982163,-93.294667,5,Near North,Sumner - Glenwood,3,1,Quincy
+-93.275989,44.979528,208,01/29/2019 01:55am,"600 1ST ST N ,Minneapolis,MN",Snow Emergency,44.979528,-93.275989,3,Central,Downtown West,3,1,Quincy
+-93.290565,45.020415,209,01/29/2019 01:55pm,"3602 BRYANT AVE N,Minneapolis,MN",Snow Emergency,45.020415,-93.290565,4,Camden,McKinley,1,2,Quincy
+-93.280064,44.960681,210,01/29/2019 01:56am,"2200 BLAISDELL AVE S,Minneapolis,MN",Snow Emergency,44.960681,-93.280064,10,Powderhorn,Whittier,3,1,Quincy
+-93.309436,44.981788,211,01/29/2019 01:57pm,"406 QUEEN AV N,Minneapolis,MN",Snow Emergency,44.981788,-93.309436,5,Near North,Harrison,3,2,Quincy
+-93.280816,44.987114,212,01/29/2019 01:58am,"800 4th st n,Minneapolis,MN",Snow Emergency,44.987114,-93.280816,5,Central,North Loop,1,1,Quincy
+-93.21347,44.970698,213,01/29/2019 01:58pm,"320 gramsey Ave ,Minneapolis,MN",Snow Emergency,44.970698,-93.21347,2,University,Prospect Park - East River Road,4,2,Quincy
+-93.223762,44.928727,214,01/29/2019 01:58pm,"3310 41st e,Minneapolis,MN",Snow Emergency,44.928727,-93.223762,12,Longfellow,Hiawatha,6,2,Quincy
+-93.244549,44.963551,215,01/29/2019 02:00am,"900 20th Ave s,Minneapolis,MN",Snow Emergency,44.963551,-93.244549,6,Longfellow,Seward,4,1,Quincy
+-93.239226,44.943775,216,01/29/2019 02:01am,"3222 23RD AVE S,Minneapolis,MN",Snow Emergency,44.943775,-93.239226,9,Powderhorn,Corcoran,6,1,Quincy
+-93.279777,44.963918,217,01/29/2019 02:01am,"1900 block of LaSalle Ave ,Minneapolis,MN",Snow Emergency,44.963918,-93.279777,7,Central,Steven's Square - Loring Heights,3,1,Quincy
+-93.244549,44.963551,218,01/29/2019 02:02am,"900 BLOCK 20TH AVE S,Minneapolis,MN",Snow Emergency,44.963551,-93.244549,6,Longfellow,Seward,4,1,Quincy
+-93.245632,44.9853,219,01/29/2019 02:02pm,"620 5th st se,Minneapolis,MN",Snow Emergency,44.9853,-93.245632,3,University,Marcy Holmes,4,2,Quincy
+-93.310715,44.987405,220,01/29/2019 02:02pm,"914 Russell ave n ,Minneapolis,MN",Snow Emergency,44.987405,-93.310715,5,Near North,Willard - Hay,1,2,Quincy
+-93.280064,44.960681,221,01/29/2019 02:03am,"2200 Blaisdell ave,Minneapolis,MN",Snow Emergency,44.960681,-93.280064,10,Powderhorn,Whittier,3,1,Quincy
+-93.271383,44.98658,222,01/29/2019 02:03am,"00 4th ave n ,Minneapolis,MN",Snow Emergency,44.98658,-93.271383,3,Central,North Loop,3,1,Quincy
+-93.23184,44.933128,223,01/29/2019 02:06am,"3835 28TH AVE S,Minneapolis,MN",Snow Emergency,44.933128,-93.23184,12,Powderhorn,Standish,6,1,Quincy
+-93.293787,44.996133,224,01/29/2019 02:06am,"1624 EMERSON AVE N ,Minneapolis,MN",Snow Emergency,44.996133,-93.293787,5,Near North,Near - North,1,1,Quincy
+-93.257027,44.945892,225,01/29/2019 02:06pm,"1212 POWDERHORN TER,Minneapolis,MN",Snow Emergency,44.945892,-93.257027,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.249471,45.006407,226,01/29/2019 02:06pm,"1812 Jackson st ne,Minneapolis,MN",Snow Emergency,45.006407,-93.249471,1,Northeast,Logan Park,2,2,Quincy
+-93.2441,44.983243,227,01/29/2019 02:06pm,"318 8th ave se,Minneapolis,MN",Snow Emergency,44.983243,-93.2441,3,University,Marcy Holmes,4,2,Quincy
+-93.309214,44.994066,228,01/29/2019 02:06pm,"1422 Queen ave n,Minneapolis,MN",Snow Emergency,44.994066,-93.309214,5,Near North,Willard - Hay,1,2,Quincy
+-93.275638,44.956073,229,01/29/2019 02:08pm,"2534 STEVENS AVE S ,Minneapolis,MN",Snow Emergency,44.956073,-93.275638,10,Powderhorn,Whittier,3,2,Quincy
+-93.248071,44.98765,230,01/29/2019 02:08pm,"410 6th st se,Minneapolis,MN",Snow Emergency,44.98765,-93.248071,3,University,Marcy Holmes,4,2,Quincy
+-93.274384,44.953931,231,01/29/2019 02:08pm,"2648 2nd Ave South,Minneapolis,MN",Snow Emergency,44.953931,-93.274384,10,Powderhorn,Whittier,3,2,Quincy
+-93.309173,44.990804,232,01/29/2019 02:08pm,"1236 queen Ave n,Minneapolis,MN",Snow Emergency,44.990804,-93.309173,5,Near North,Willard - Hay,1,2,Quincy
+-93.275579,44.956128,233,01/29/2019 02:09pm,"2532 stevens,Minneapolis,MN",Snow Emergency,44.956128,-93.275579,10,Powderhorn,Whittier,3,2,Quincy
+-93.244188,44.983118,234,01/29/2019 02:09pm,"314 8th ave se,Minneapolis,MN",Snow Emergency,44.983118,-93.244188,3,University,Marcy Holmes,4,2,Quincy
+-93.2903,45.019064,235,01/29/2019 02:10pm,"3514 Bryant Ave n,Minneapolis,MN",Snow Emergency,45.019064,-93.2903,4,Camden,McKinley,1,2,Quincy
+-93.249462,45.006334,236,01/29/2019 02:10pm,"1810 jackson st ne,Minneapolis,MN",Snow Emergency,45.006334,-93.249462,1,Northeast,Logan Park,2,2,Quincy
+-93.243224,44.986822,237,01/29/2019 02:10pm,"618 6TH AVE SE ,Minneapolis,MN",Snow Emergency,44.986822,-93.243224,3,University,Marcy Holmes,4,2,Quincy
+-93.246744,44.986904,238,01/29/2019 02:10pm,"520 5TH AVE SE ,Minneapolis,MN",Snow Emergency,44.986904,-93.246744,3,University,Marcy Holmes,4,2,Quincy
+-93.275598,44.958021,239,01/29/2019 02:11pm,"2434 Stevens ave s ,Minneapolis,MN",Snow Emergency,44.958021,-93.275598,10,Powderhorn,Whittier,3,2,Quincy
+-93.309232,44.998249,240,01/29/2019 02:12pm,"1820 queen Ave n ,Minneapolis,MN",Snow Emergency,44.998249,-93.309232,5,Near North,Willard - Hay,1,2,Quincy
+-93.309438,44.981723,241,01/29/2019 02:12pm,"404 queen av n,Minneapolis,MN",Snow Emergency,44.981723,-93.309438,5,Near North,Harrison,3,2,Quincy
+-93.293814,45.004428,242,01/29/2019 02:13am,"2418 EMERSON AVE N ,Minneapolis,MN",Snow Emergency,45.004428,-93.293814,5,Near North,Hawthorne,1,1,Quincy
+-93.289552,44.978934,243,01/29/2019 02:13am,"800 2ND AVE N ,Minneapolis,MN",Snow Emergency,44.978934,-93.289552,5,Near North,Harrison,3,1,Quincy
+-93.280064,44.960681,244,01/29/2019 02:15am,"2200 BLAISDELL AV S,Minneapolis,MN",Snow Emergency,44.960681,-93.280064,10,Powderhorn,Whittier,3,1,Quincy
+-93.260475,44.947643,245,01/29/2019 02:15pm,"3022 10th ave so,Minneapolis,MN",Snow Emergency,44.947643,-93.260475,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.249454,45.008176,246,01/29/2019 02:16pm,"1904 jackson st ne,Minneapolis,MN",Snow Emergency,45.008176,-93.249454,1,Northeast,Holland,2,2,Quincy
+-93.23788,44.94495,247,01/29/2019 02:16pm,"2324 32nd Street East,Minneapolis,MN",Snow Emergency,44.94495,-93.23788,9,Powderhorn,Corcoran,6,2,Quincy
+-93.294524,45.001096,248,01/29/2019 02:17am,"2121 Emerson ave n ,Minneapolis,MN",Snow Emergency,45.001096,-93.294524,5,Near North,Jordan,1,1,Quincy
+-93.225425,44.960845,249,01/29/2019 02:19pm,"2222 32nd Street East,Minneapolis,MN",Snow Emergency,44.960845,-93.225425,2,Longfellow,Seward,4,2,Quincy
+-93.294426,45.00097,250,01/29/2019 02:20am,"2119 emerson ave n,Minneapolis,MN",Snow Emergency,45.00097,-93.294426,5,Near North,Jordan,1,1,Quincy
+-93.242556,44.985531,251,01/29/2019 02:20pm,"802 6th st se,Minneapolis,MN",Snow Emergency,44.985531,-93.242556,3,University,Marcy Holmes,4,2,Quincy
+-93.217782,44.905374,252,01/29/2019 02:21am,"3800 54th st e,Minneapolis,MN",Snow Emergency,44.905374,-93.217782,12,Nokomis,Morris Park,6,1,Quincy
+-93.309357,44.979345,253,01/29/2019 02:23pm,"272 queen ave n,Minneapolis,MN",Snow Emergency,44.979345,-93.309357,5,Near North,Harrison,3,2,Quincy
+-93.255573,44.945897,254,01/29/2019 02:24pm,"1318 PowDERHOR TER,Minneapolis,MN",Snow Emergency,44.945897,-93.255573,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.24324,44.984525,255,01/29/2019 02:24pm,"800 5th st se,Minneapolis,MN",Snow Emergency,44.984525,-93.24324,3,University,Marcy Holmes,4,2,Quincy
+-93.23174,44.988762,256,01/29/2019 02:25pm,"1030 14th ave se,Minneapolis,MN",Snow Emergency,44.988762,-93.23174,1,University,Como,4,2,Quincy
+-93.290284,45.017213,257,01/29/2019 02:26pm,"3412 BRYANT AVE N,Minneapolis,MN",Snow Emergency,45.017213,-93.290284,4,Camden,McKinley,1,2,Quincy
+-93.271323,45.012198,258,01/29/2019 02:27am,"2401 marshall st ne,Minneapolis,MN",Snow Emergency,45.012198,-93.271323,3,Northeast,Bottineau,2,1,Quincy
+-93.295175,45.015222,259,01/29/2019 02:27am,"3300 FREMOUNT AVE N ,Minneapolis,MN",Snow Emergency,45.015222,-93.295175,4,Camden,Folwell,1,1,Quincy
+-93.308015,44.984895,260,01/29/2019 02:28am,"616 penn Ave n,Minneapolis,MN",Snow Emergency,44.984895,-93.308015,5,Near North,Near - North,1,1,Quincy
+-93.280183,44.959732,261,01/29/2019 02:28am,"2300 BLOCK OF BLAISDELL AVE,Minneapolis,MN",Snow Emergency,44.959732,-93.280183,10,Powderhorn,Whittier,3,1,Quincy
+-93.280183,44.959732,262,01/29/2019 02:28am,"2300 block of Blaisdell ave,Minneapolis,MN",Snow Emergency,44.959732,-93.280183,10,Powderhorn,Whittier,3,1,Quincy
+-93.222456,44.939738,263,01/29/2019 02:30am,"3410 35th st e,Minneapolis,MN",Snow Emergency,44.939738,-93.222456,12,Longfellow,Howe,6,1,Quincy
+-93.242491,44.964018,264,01/29/2019 02:31am,"2100 BLOCK 9TH ST S,Minneapolis,MN",Snow Emergency,44.964018,-93.242491,6,Longfellow,Seward,4,1,Quincy
+-93.272728,44.928736,265,01/29/2019 02:31am,"4099 3rd Ave South,Minneapolis,MN",Snow Emergency,44.928736,-93.272728,8,Powderhorn,Bryant,5,1,Quincy
+-93.280064,44.960681,266,01/29/2019 02:32am,"2200 block of blaisdell Ave ,Minneapolis,MN",Snow Emergency,44.960681,-93.280064,10,Powderhorn,Whittier,3,1,Quincy
+-93.271985,45.016489,267,01/29/2019 02:33am,"2647 marshall st ne,Minneapolis,MN",Snow Emergency,45.016489,-93.271985,1,Northeast,Marshall Terrace,2,1,Quincy
+-93.238546,44.939985,268,01/29/2019 02:34am,"3441 23rd av s,Minneapolis,MN",Snow Emergency,44.939985,-93.238546,9,Powderhorn,Corcoran,6,1,Quincy
+-93.242523,44.964018,269,01/29/2019 02:35am,"2099 9th st s,Minneapolis,MN",Snow Emergency,44.964018,-93.242523,6,Longfellow,Seward,4,1,Quincy
+-93.273118,44.941188,270,01/29/2019 02:37am,"3400 block of 3rd Avenue south,Minneapolis,MN",Snow Emergency,44.941188,-93.273118,9,Powderhorn,Central,5,1,Quincy
+-93.309439,44.981658,271,01/29/2019 02:41pm,"402 QUEEN AV N,Minneapolis,MN",Snow Emergency,44.981658,-93.309439,5,Near North,Harrison,3,2,Quincy
+-93.271528,45.002703,272,01/29/2019 02:42am,"1490 MARSHALL ST NE,Minneapolis,MN",Snow Emergency,45.002703,-93.271528,3,Northeast,Sheridan,2,1,Quincy
+-93.281587,44.955125,273,01/29/2019 02:42pm,"2608 pillsbury ave,Minneapolis,MN",Snow Emergency,44.955125,-93.281587,10,Powderhorn,Whittier,3,2,Quincy
+-93.295373,45.025011,274,01/29/2019 02:43am,"3834 Freemont ave n,Minneapolis,MN",Snow Emergency,45.025011,-93.295373,4,Camden,Webber - Camden,1,1,Quincy
+-93.290417,45.030736,275,01/29/2019 02:43pm,"4144 Bryant Ave n,Minneapolis,MN",Snow Emergency,45.030736,-93.290417,4,Camden,Webber - Camden,1,2,Quincy
+-93.28581,44.957117,276,01/29/2019 02:44pm,"2502 Harriet Ave South,Minneapolis,MN",Snow Emergency,44.957117,-93.28581,10,Powderhorn,Whittier,3,2,Quincy
+-93.311106,44.980806,277,01/29/2019 02:44pm,"310 Russell Ave n,Minneapolis,MN",Snow Emergency,44.980806,-93.311106,5,Near North,Harrison,3,2,Quincy
+-93.257908,44.945973,278,01/29/2019 02:44pm,"3118 12 ave s,Minneapolis,MN",Snow Emergency,44.945973,-93.257908,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.280113,44.958876,279,01/29/2019 02:45am,"2400 BLAISDELL AVE S,Minneapolis,MN",Snow Emergency,44.958876,-93.280113,10,Powderhorn,Whittier,3,1,Quincy
+-93.271529,45.002712,280,01/29/2019 02:45am,"1492 MARSHALL ST NE,Minneapolis,MN",Snow Emergency,45.002712,-93.271529,3,Northeast,Sheridan,2,1,Quincy
+-93.29598,45.025298,281,01/29/2019 02:45am,"3845 Fremont Ave n,Minneapolis,MN",Snow Emergency,45.025298,-93.29598,4,Camden,Webber - Camden,1,1,Quincy
+-93.280183,44.959732,282,01/29/2019 02:46am,"2300 BLOCK OF BLAISDELL AVE,Minneapolis,MN",Snow Emergency,44.959732,-93.280183,10,Powderhorn,Whittier,3,1,Quincy
+-93.27257,45.016412,283,01/29/2019 02:49am,"2650 marshall st ne,Minneapolis,MN",Snow Emergency,45.016412,-93.27257,1,Northeast,Marshall Terrace,2,1,Quincy
+-93.311107,44.980742,284,01/29/2019 02:51pm,"302 Russell Ave N,Minneapolis,MN",Snow Emergency,44.980742,-93.311107,5,Near North,Harrison,3,2,Quincy
+-93.280113,44.958876,285,01/29/2019 02:52am,"2400 BLAISDELL AV S,Minneapolis,MN",Snow Emergency,44.958876,-93.280113,10,Powderhorn,Whittier,3,1,Quincy
+-93.261651,44.945784,286,01/29/2019 02:52pm,"3124 Elliot ave ,Minneapolis,MN",Snow Emergency,44.945784,-93.261651,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.309217,44.999043,287,01/29/2019 02:53pm,"1906 queen ave n ,Minneapolis,MN",Snow Emergency,44.999043,-93.309217,5,Near North,Willard - Hay,1,2,Quincy
+-93.241522,44.94158,288,01/29/2019 02:53pm,"2116 34th st,Minneapolis,MN",Snow Emergency,44.94158,-93.241522,9,Powderhorn,Corcoran,6,2,Quincy
+-93.242491,44.964018,289,01/29/2019 02:54am,"2100 9TH ST S,Minneapolis,MN",Snow Emergency,44.964018,-93.242491,6,Longfellow,Seward,4,1,Quincy
+-93.271323,45.012198,290,01/29/2019 02:54am,"2401 MARSHALL ST NE,Minneapolis,MN",Snow Emergency,45.012198,-93.271323,3,Northeast,Bottineau,2,1,Quincy
+-93.274428,44.954442,291,01/29/2019 02:54pm,"2624 2nd ave s,Minneapolis,MN",Snow Emergency,44.954442,-93.274428,10,Powderhorn,Whittier,3,2,Quincy
+-93.29163,45.032344,292,01/29/2019 02:54pm,"4224 Colfax Ave n,Minneapolis,MN",Snow Emergency,45.032344,-93.29163,4,Camden,Webber - Camden,1,2,Quincy
+-93.243309,44.986676,293,01/29/2019 02:55pm,"610 7TH ST SE,Minneapolis,MN",Snow Emergency,44.986676,-93.243309,3,University,Marcy Holmes,4,2,Quincy
+-93.239799,44.944968,294,01/29/2019 02:55pm,"2218 32nd st,Minneapolis,MN",Snow Emergency,44.944968,-93.239799,9,Powderhorn,Corcoran,6,2,Quincy
+-93.294062,45.008816,295,01/29/2019 02:56am,"2806 EMERSON AVE N ,Minneapolis,MN",Snow Emergency,45.008816,-93.294062,5,Near North,Hawthorne,1,1,Quincy
+-93.309196,45.009802,296,01/29/2019 02:56pm,"2900 queen ave n ,Minneapolis,MN",Snow Emergency,45.009802,-93.309196,5,Near North,Jordan,1,2,Quincy
+-93.302985,45.043912,297,01/29/2019 02:57am,"1800 block 49th Ave n,Minneapolis,MN",Snow Emergency,45.043912,-93.302985,4,Camden,Humboldt Industrial Area,1,1,Quincy
+-93.298644,45.035447,298,01/29/2019 02:57am,"1460 44TH AVE N,Minneapolis,MN",Snow Emergency,45.035447,-93.298644,4,Camden,Webber - Camden,1,1,Quincy
+-93.290287,45.017715,299,01/29/2019 02:57pm,"3428 bryant ave n,Minneapolis,MN",Snow Emergency,45.017715,-93.290287,4,Camden,McKinley,1,2,Quincy
+-93.295371,45.02534,300,01/29/2019 02:58am,"3846 FREMONT AVE N ,Minneapolis,MN",Snow Emergency,45.02534,-93.295371,4,Camden,Webber - Camden,1,1,Quincy
+-93.291739,45.032432,301,01/29/2019 02:58pm,"4226 Colfax Ave n ,Minneapolis,MN",Snow Emergency,45.032432,-93.291739,4,Camden,Webber - Camden,1,2,Quincy
+-93.244468,44.982751,302,01/29/2019 02:58pm,"302 8TH AVE SE,Minneapolis,MN",Snow Emergency,44.982751,-93.244468,3,University,Marcy Holmes,4,2,Quincy
+-93.242491,44.964018,303,01/29/2019 03:00am,"2100 9TH ST S,Minneapolis,MN",Snow Emergency,44.964018,-93.242491,6,Longfellow,Seward,4,1,Quincy
+-93.295288,45.021183,304,01/29/2019 03:00am,"3626 FREMONT AVE N ,Minneapolis,MN",Snow Emergency,45.021183,-93.295288,4,Camden,Folwell,1,1,Quincy
+-93.270893,45.00297,305,01/29/2019 03:00am,"1501 MARSHALL ST NE,Minneapolis,MN",Snow Emergency,45.00297,-93.270893,3,Northeast,Sheridan,2,1,Quincy
+-93.280064,44.960681,306,01/29/2019 03:00am,"2200 BLAISDELL AVE S,Minneapolis,MN",Snow Emergency,44.960681,-93.280064,10,Powderhorn,Whittier,3,1,Quincy
+-93.242491,44.964018,307,01/29/2019 03:00am,"2100 9TH ST S,Minneapolis,MN",Snow Emergency,44.964018,-93.242491,6,Longfellow,Seward,4,1,Quincy
+-93.290353,45.028804,308,01/29/2019 03:00pm,"4038 bryant ave n,Minneapolis,MN",Snow Emergency,45.028804,-93.290353,4,Camden,Webber - Camden,1,2,Quincy
+-93.24268,44.984315,309,01/29/2019 03:01pm,"818 5th st se,Minneapolis,MN",Snow Emergency,44.984315,-93.24268,3,University,Marcy Holmes,4,2,Quincy
+-93.275592,44.957621,310,01/29/2019 03:01pm,"2444 STEVENS AVE S,Minneapolis,MN",Snow Emergency,44.957621,-93.275592,10,Powderhorn,Whittier,3,2,Quincy
+-93.240929,44.963997,311,01/29/2019 03:04am,"2199 9TH ST S,Minneapolis,MN",Snow Emergency,44.963997,-93.240929,6,Longfellow,Seward,4,1,Quincy
+-93.274372,44.952495,312,01/29/2019 03:04pm,"2734 2ND AVE S,Minneapolis,MN",Snow Emergency,44.952495,-93.274372,10,Powderhorn,Whittier,3,2,Quincy
+-93.274356,44.952501,313,01/29/2019 03:04pm,"2732 2nd ave s ,Minneapolis,MN",Snow Emergency,44.952501,-93.274356,10,Powderhorn,Whittier,3,2,Quincy
+-93.311105,44.980933,314,01/29/2019 03:05pm,"326 russell av,Minneapolis,MN",Snow Emergency,44.980933,-93.311105,5,Near North,Harrison,3,2,Quincy
+-93.261736,44.947372,315,01/29/2019 03:08pm,"3028 Elliott ave,Minneapolis,MN",Snow Emergency,44.947372,-93.261736,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.22322,44.90411,316,01/29/2019 03:09am,"5440 34TH AVE S,Minneapolis,MN",Snow Emergency,44.90411,-93.22322,11,Nokomis,Wenonah,6,1,Quincy
+-93.274371,44.952574,317,01/29/2019 03:09pm,"2730 2ND AVE S ,Minneapolis,MN",Snow Emergency,44.952574,-93.274371,10,Powderhorn,Whittier,3,2,Quincy
+-93.269897,45.00134,318,01/29/2019 03:12pm,"116 14th ave ne,Minneapolis,MN",Snow Emergency,45.00134,-93.269897,3,Northeast,Sheridan,2,2,Quincy
+-93.303565,44.943161,319,01/29/2019 03:14pm,"1932 33rd Street East,Minneapolis,MN",Snow Emergency,44.943161,-93.303565,10,Calhoun Isle,ECCO,5,2,Quincy
+-93.269577,45.003719,320,01/29/2019 03:15pm,"56 16th ave ne,Minneapolis,MN",Snow Emergency,45.003719,-93.269577,3,Northeast,Sheridan,2,2,Quincy
+-93.280113,44.958876,321,01/29/2019 03:16am,"2400 BLAISDELL AVE S,Minneapolis,MN",Snow Emergency,44.958876,-93.280113,10,Powderhorn,Whittier,3,1,Quincy
+-93.280076,44.957001,322,01/29/2019 03:17am,"2500 BLOCK OF BLAISDELL AVE,Minneapolis,MN",Snow Emergency,44.957001,-93.280076,10,Powderhorn,Whittier,3,1,Quincy
+-93.273118,44.941188,323,01/29/2019 03:18am,"3400 block of 3rd Avenue south,Minneapolis,MN",Snow Emergency,44.941188,-93.273118,9,Powderhorn,Central,5,1,Quincy
+-93.293975,44.98514,324,01/29/2019 03:19am,"1100 7TH AVE N ,Minneapolis,MN",Snow Emergency,44.98514,-93.293975,5,Near North,Near - North,1,1,Quincy
+-93.25909,44.947637,325,01/29/2019 03:19pm,"3020 11th Avenue South,Minneapolis,MN",Snow Emergency,44.947637,-93.25909,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.301339,44.98158,326,01/29/2019 03:26am,"1411 4th ave n ,Minneapolis,MN",Snow Emergency,44.98158,-93.301339,5,Near North,Harrison,3,1,Quincy
+-93.222604,44.906137,327,01/29/2019 03:27am,"5335 34th ave s,Minneapolis,MN",Snow Emergency,44.906137,-93.222604,12,Nokomis,Minnehaha,6,1,Quincy
+-93.287071,45.041197,328,01/29/2019 03:29am,"4729 LYNDALE AVE N,Minneapolis,MN",Snow Emergency,45.041197,-93.287071,4,Camden,Lind - Bohanon,1,1,Quincy
+-93.307933,44.990255,329,01/29/2019 03:29am,"1216 penn Ave n,Minneapolis,MN",Snow Emergency,44.990255,-93.307933,5,Near North,Near - North,1,1,Quincy
+-93.301339,44.98158,330,01/29/2019 03:31am,"1421 4th ave n,Minneapolis,MN",Snow Emergency,44.98158,-93.301339,5,Near North,Harrison,3,1,Quincy
+-93.222643,44.906169,331,01/29/2019 03:31am,"5333 34th ave s,Minneapolis,MN",Snow Emergency,44.906169,-93.222643,12,Nokomis,Minnehaha,6,1,Quincy
+-93.280076,44.957001,332,01/29/2019 03:34am,"2500 BLAISDELL AVE S,Minneapolis,MN",Snow Emergency,44.957001,-93.280076,10,Powderhorn,Whittier,3,1,Quincy
+-93.277559,44.963797,333,01/29/2019 03:34am,"1 19th st e,Minneapolis,MN",Snow Emergency,44.963797,-93.277559,6,Central,Steven's Square - Loring Heights,3,1,Quincy
+-93.2313,44.943815,334,01/29/2019 03:35am,"3226 MINNEHAHA AVE S,Minneapolis,MN",Snow Emergency,44.943815,-93.2313,9,Longfellow,Longfellow,6,1,Quincy
+-93.241035,44.963743,335,01/29/2019 03:35am,"2189 9TH ST S,Minneapolis,MN",Snow Emergency,44.963743,-93.241035,6,Longfellow,Seward,4,1,Quincy
+-93.231757,44.944369,336,01/29/2019 03:38am,"3206 MINNEHAHA AVE S,Minneapolis,MN",Snow Emergency,44.944369,-93.231757,9,Longfellow,Longfellow,6,1,Quincy
+-93.273395,44.963955,337,01/29/2019 03:41am,"200 19TH ST ,Minneapolis,MN",Snow Emergency,44.963955,-93.273395,6,Central,Steven's Square - Loring Heights,3,1,Quincy
+-93.273395,44.963955,338,01/29/2019 03:41am,"200 BLOCK 19TH ST E,Minneapolis,MN",Snow Emergency,44.963955,-93.273395,6,Central,Steven's Square - Loring Heights,3,1,Quincy
+-93.280076,44.957001,339,01/29/2019 03:45am,"2500 Blaisdell ave,Minneapolis,MN",Snow Emergency,44.957001,-93.280076,10,Powderhorn,Whittier,3,1,Quincy
+-93.278286,44.923018,340,01/29/2019 03:46am,"4400 NICOLLET AVE S,Minneapolis,MN",Snow Emergency,44.923018,-93.278286,8,Southwest,King Field,5,1,Quincy
+-93.307881,44.996694,341,01/29/2019 03:47am,"1706 penn Ave n,Minneapolis,MN",Snow Emergency,44.996694,-93.307881,5,Near North,Willard - Hay,1,1,Quincy
+-93.278286,44.923018,342,01/29/2019 03:50am,"4400 NICOLLET AVE S,Minneapolis,MN",Snow Emergency,44.923018,-93.278286,8,Southwest,King Field,5,1,Quincy
+-93.298074,45.035242,343,01/29/2019 03:51am,"1421 44TH AVE N ,Minneapolis,MN",Snow Emergency,45.035242,-93.298074,4,Camden,Webber - Camden,1,1,Quincy
+-93.286116,45.04356,344,01/29/2019 03:53am,"4851 LYNDALE AVE N ,Minneapolis,MN",Snow Emergency,45.04356,-93.286116,4,Camden,Lind - Bohanon,1,1,Quincy
+-93.297623,45.035273,345,01/29/2019 03:54am,"1411 44th ave n,Minneapolis,MN",Snow Emergency,45.035273,-93.297623,4,Camden,Webber - Camden,1,1,Quincy
+-93.307877,44.99858,346,01/29/2019 03:55am,"1838 PENN AVE N,Minneapolis,MN",Snow Emergency,44.99858,-93.307877,5,Near North,Willard - Hay,1,1,Quincy
+-93.287774,45.039917,347,01/29/2019 03:56am,"4643 LYNDALE AVE N ,Minneapolis,MN",Snow Emergency,45.039917,-93.287774,4,Camden,Lind - Bohanon,1,1,Quincy
+-93.242491,44.964018,348,01/29/2019 03:57am,"2100 9TH ST S,Minneapolis,MN",Snow Emergency,44.964018,-93.242491,6,Longfellow,Seward,4,1,Quincy
+-93.272772,44.939584,349,01/29/2019 04:01am,"3499 3rd AVE south,Minneapolis,MN",Snow Emergency,44.939584,-93.272772,9,Powderhorn,Central,5,1,Quincy
+-93.257473,44.963704,350,01/29/2019 04:02am,"00 BLOCK 19TH ST E,Minneapolis,MN",Snow Emergency,44.963704,-93.257473,6,Phillips,Ventura Village,3,1,Quincy
+-93.279634,44.955521,351,01/29/2019 04:06am,"2600 block of Blaisdell av,Minneapolis,MN",Snow Emergency,44.955521,-93.279634,10,Powderhorn,Whittier,3,1,Quincy
+-93.272827,44.96405,352,01/29/2019 04:06am,"00 19th st e,Minneapolis,MN",Snow Emergency,44.96405,-93.272827,6,Central,Steven's Square - Loring Heights,3,1,Quincy
+-93.308611,45.014172,353,01/29/2019 04:07am,"3229 Penn Ave n,Minneapolis,MN",Snow Emergency,45.014172,-93.308611,4,Camden,Cleveland,1,1,Quincy
+-93.273118,44.941188,354,01/29/2019 04:07am,"3400 3 Ave St,Minneapolis,MN",Snow Emergency,44.941188,-93.273118,9,Powderhorn,Central,5,1,Quincy
+-93.235391,44.964186,355,01/29/2019 04:08am,"2500 9th st s,Minneapolis,MN",Snow Emergency,44.964186,-93.235391,6,Longfellow,Seward,4,1,Quincy
+-93.308494,45.001151,356,01/29/2019 04:09am,"2117 penn Ave n,Minneapolis,MN",Snow Emergency,45.001151,-93.308494,5,Near North,Willard - Hay,1,1,Quincy
+-93.280076,44.957001,357,01/29/2019 04:09am,"2500 block of blaisdell Ave ,Minneapolis,MN",Snow Emergency,44.957001,-93.280076,10,Powderhorn,Whittier,3,1,Quincy
+-93.308614,45.013594,358,01/29/2019 04:14am,"3213 Penn Ave n ,Minneapolis,MN",Snow Emergency,45.013594,-93.308614,4,Camden,Cleveland,1,1,Quincy
+-93.308611,45.014172,359,01/29/2019 04:22am,"3229 PENN AVE N,Minneapolis,MN",Snow Emergency,45.014172,-93.308611,4,Camden,Cleveland,1,1,Quincy
+-93.234477,44.947885,360,01/29/2019 04:23am,"3010 Minnehaha Avenue South,Minneapolis,MN",Snow Emergency,44.947885,-93.234477,9,Longfellow,Longfellow,6,1,Quincy
+-93.257473,44.963704,361,01/29/2019 04:28am,"00 BLOCK 19TH ST E,Minneapolis,MN",Snow Emergency,44.963704,-93.257473,6,Phillips,Ventura Village,3,1,Quincy
+-93.230044,44.942029,362,01/29/2019 04:29am,"3328 Minnehaha Avenue South,Minneapolis,MN",Snow Emergency,44.942029,-93.230044,9,Longfellow,Longfellow,6,1,Quincy
+-93.272827,44.96405,363,01/29/2019 04:30am,"00 19th st e,Minneapolis,MN",Snow Emergency,44.96405,-93.272827,6,Central,Steven's Square - Loring Heights,3,1,Quincy
+-93.280025,44.953632,364,01/29/2019 04:32am,"2700 BLAISDELL AVE S,Minneapolis,MN",Snow Emergency,44.953632,-93.280025,10,Powderhorn,Whittier,3,1,Quincy
+-93.280025,44.953632,365,01/29/2019 04:33am,"2700 BLAISDELL AVE S,Minneapolis,MN",Snow Emergency,44.953632,-93.280025,10,Powderhorn,Whittier,3,1,Quincy
+-93.308218,44.995127,366,01/29/2019 04:45am,"1556 PENN AVE N ,Minneapolis,MN",Snow Emergency,44.995127,-93.308218,5,Near North,Willard - Hay,1,1,Quincy
+-93.241694,44.964017,367,01/29/2019 04:46am,"2150 9TH ST S,Minneapolis,MN",Snow Emergency,44.964017,-93.241694,6,Longfellow,Seward,4,1,Quincy
+-93.308965,45.04407,368,01/29/2019 04:48am,"4900 PENN AVE N ,Minneapolis,MN",Snow Emergency,45.04407,-93.308965,4,Camden,Shingle Creek,1,1,Quincy
+-93.308611,45.014172,369,01/29/2019 04:48am,"3229 PENN AVE N ,Minneapolis,MN",Snow Emergency,45.014172,-93.308611,4,Camden,Cleveland,1,1,Quincy
+-93.234477,44.947885,370,01/29/2019 04:50am,"3010 MINNEHAHA AVE S,Minneapolis,MN",Snow Emergency,44.947885,-93.234477,9,Longfellow,Longfellow,6,1,Quincy
+-93.257473,44.963704,371,01/29/2019 04:50am,"00 BLOCK 19TH ST E,Minneapolis,MN",Snow Emergency,44.963704,-93.257473,6,Phillips,Ventura Village,3,1,Quincy
+-93.227842,44.940335,372,01/29/2019 04:56am,"3441 MINNEHAHA AVE S,Minneapolis,MN",Snow Emergency,44.940335,-93.227842,12,Longfellow,Howe,6,1,Quincy
+-93.308441,45.001909,373,01/29/2019 04:59am,"2211 PENN AVE N ,Minneapolis,MN",Snow Emergency,45.001909,-93.308441,5,Near North,Willard - Hay,1,1,Quincy
+-93.281878,44.994181,374,01/29/2019 08:20am,"2420 3rd st n,Minneapolis,MN",Snow Emergency,44.994181,-93.281878,5,Near North,Near - North,1,2,Quincy
+-93.264979,45.012567,375,01/29/2019 08:23am,"2410 3rd ave n ,Minneapolis,MN",Snow Emergency,45.012567,-93.264979,3,Northeast,Bottineau,2,2,Quincy
+-93.286424,44.997076,376,01/29/2019 08:29am,"500 lyn park cir n ,Minneapolis,MN",Snow Emergency,44.997076,-93.286424,5,Near North,Near - North,1,2,Quincy
+-93.286587,44.99712,377,01/29/2019 08:37am,"502 LYN PARK CIR,Minneapolis,MN",Snow Emergency,44.99712,-93.286587,5,Near North,Near - North,1,2,Quincy
+-93.280669,44.968798,378,01/29/2019 08:38am,"124 14TH ST W,Minneapolis,MN",Snow Emergency,44.968798,-93.280669,7,Central,Loring Park,3,2,Quincy
+-93.269856,44.935815,379,01/29/2019 08:39am,"3701 S 4TH AVE ,Minneapolis,MN",Snow Emergency,44.935815,-93.269856,8,Powderhorn,Central,5,2,Quincy
+-93.290778,44.988359,380,01/29/2019 08:41am,"1032 Aldrich ave n ,Minneapolis,MN",Snow Emergency,44.988359,-93.290778,5,Near North,Sumner - Glenwood,1,2,Quincy
+-93.304899,44.948259,381,01/29/2019 08:41am,"3002 knox Avenue s,Minneapolis,MN",Snow Emergency,44.948259,-93.304899,10,Calhoun Isle,ECCO,5,2,Quincy
+-93.303703,44.94694,382,01/29/2019 08:44am,"3040 james ave s,Minneapolis,MN",Snow Emergency,44.94694,-93.303703,10,Calhoun Isle,ECCO,5,2,Quincy
+-93.290777,44.988348,383,01/29/2019 08:48am,"1030 aldrich ave n,Minneapolis,MN",Snow Emergency,44.988348,-93.290777,5,Near North,Sumner - Glenwood,1,2,Quincy
+-93.250399,44.983413,384,01/29/2019 08:50am,"408 2nd Ave SE,Minneapolis,MN",Snow Emergency,44.983413,-93.250399,3,University,Marcy Holmes,4,2,Quincy
+-93.285923,44.996999,385,01/29/2019 08:51am,"1712 lyn park ave n,Minneapolis,MN",Snow Emergency,44.996999,-93.285923,5,Near North,Near - North,1,2,Quincy
+-93.253529,44.928715,386,01/29/2019 08:52am,"1512 41st e ,Minneapolis,MN",Snow Emergency,44.928715,-93.253529,8,Powderhorn,Bancroft,6,2,Quincy
+-93.280647,44.968798,387,01/29/2019 08:53am,"114 14TH ST W,Minneapolis,MN",Snow Emergency,44.968798,-93.280647,7,Central,Loring Park,3,2,Quincy
+-93.250437,44.983428,388,01/29/2019 08:55am,"406 2nd Ave SE,Minneapolis,MN",Snow Emergency,44.983428,-93.250437,3,University,Marcy Holmes,4,2,Quincy
+-93.290779,44.988402,389,01/29/2019 08:56am,"1040 ALDRICH AVE N,Minneapolis,MN",Snow Emergency,44.988402,-93.290779,5,Near North,Sumner - Glenwood,1,2,Quincy
+-93.304942,44.947834,390,01/29/2019 08:57am,"3012 Knox ave s,Minneapolis,MN",Snow Emergency,44.947834,-93.304942,10,Calhoun Isle,ECCO,5,2,Quincy
+-93.246438,44.980975,391,01/29/2019 08:59am,"1208 main st SE,Minneapolis,MN",Snow Emergency,44.980975,-93.246438,3,University,Marcy Holmes,4,2,Quincy
+-93.283377,45.012062,392,01/29/2019 08:59am,"3108 N 3rd St ,Minneapolis,MN",Snow Emergency,45.012062,-93.283377,5,Near North,Hawthorne,1,2,Quincy
+-93.267977,45.0005,393,01/29/2019 09:00am,"1218 NE Main St ,Minneapolis,MN",Snow Emergency,45.0005,-93.267977,3,Northeast,Sheridan,2,2,Quincy
+-93.283377,45.012038,394,01/29/2019 09:02am,"3106 N 3rd St ,Minneapolis,MN",Snow Emergency,45.012038,-93.283377,5,Near North,Hawthorne,1,2,Quincy
+-93.280491,44.968938,395,01/29/2019 09:04am,"120 14TH ST W,Minneapolis,MN",Snow Emergency,44.968938,-93.280491,7,Central,Loring Park,3,2,Quincy
+-93.253943,44.937071,396,01/29/2019 09:06am,"3616 15 ave s,Minneapolis,MN",Snow Emergency,44.937071,-93.253943,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.280617,44.968798,397,01/29/2019 09:07am,"100 14TH ST W,Minneapolis,MN",Snow Emergency,44.968798,-93.280617,7,Central,Loring Park,3,2,Quincy
+-93.290499,44.983835,398,01/29/2019 09:09am,"530 N BRYANT AVE ,Minneapolis,MN",Snow Emergency,44.983835,-93.290499,5,Near North,Sumner - Glenwood,3,2,Quincy
+-93.280556,44.966904,399,01/29/2019 09:09am,"1526 Spruce Pl,Minneapolis,MN",Snow Emergency,44.966904,-93.280556,7,Central,Loring Park,3,2,Quincy
+-93.269938,45.001909,400,01/29/2019 09:11am,"1408 grand st ne,Minneapolis,MN",Snow Emergency,45.001909,-93.269938,3,Northeast,Sheridan,2,2,Quincy
+-93.290012,44.986064,401,01/29/2019 09:11am,"724 Aldrich ave n ,Minneapolis,MN",Snow Emergency,44.986064,-93.290012,5,Near North,Sumner - Glenwood,1,2,Quincy
+-93.276233,44.988836,402,01/29/2019 09:16am,"700 block 2nd st n ,Minneapolis,MN",Snow Emergency,44.988836,-93.276233,3,Central,North Loop,1,2,Quincy
+-93.253904,44.931423,403,01/29/2019 09:16am,"3928 15th ave,Minneapolis,MN",Snow Emergency,44.931423,-93.253904,8,Powderhorn,Bancroft,6,2,Quincy
+-93.267975,44.999876,404,01/29/2019 09:16am,"1202 main st ne,Minneapolis,MN",Snow Emergency,44.999876,-93.267975,3,Northeast,Sheridan,2,2,Quincy
+-93.303703,44.947706,405,01/29/2019 09:18am,"3016 James ave,Minneapolis,MN",Snow Emergency,44.947706,-93.303703,10,Calhoun Isle,ECCO,5,2,Quincy
+-93.255239,44.929964,406,01/29/2019 09:19am,"4016 14th ave,Minneapolis,MN",Snow Emergency,44.929964,-93.255239,8,Powderhorn,Bancroft,6,2,Quincy
+-93.253943,44.938856,407,01/29/2019 09:20am,"3516 15th Avenue South,Minneapolis,MN",Snow Emergency,44.938856,-93.253943,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.303683,44.947069,408,01/29/2019 09:21am,"3036 James ave s,Minneapolis,MN",Snow Emergency,44.947069,-93.303683,10,Calhoun Isle,ECCO,5,2,Quincy
+-93.25521,44.938702,409,01/29/2019 09:23am,"3522 14th Avenue South,Minneapolis,MN",Snow Emergency,44.938702,-93.25521,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.303683,44.947214,410,01/29/2019 09:24am,"3032 James ave s,Minneapolis,MN",Snow Emergency,44.947214,-93.303683,10,Calhoun Isle,ECCO,5,2,Quincy
+-93.281143,44.968306,411,01/29/2019 09:27am,"1410 SPRUCE PLACE,Minneapolis,MN",Snow Emergency,44.968306,-93.281143,7,Central,Loring Park,3,2,Quincy
+-93.29565,44.991984,412,01/29/2019 09:28am,"1108 FREMONT AVE N,Minneapolis,MN",Snow Emergency,44.991984,-93.29565,5,Near North,Near - North,1,2,Quincy
+-93.246341,44.926783,413,01/29/2019 09:34am,"4200 Longfellow ave s,Minneapolis,MN",Snow Emergency,44.926783,-93.246341,12,Nokomis,Ericsson,6,2,Quincy
+-93.284665,45.002339,414,01/29/2019 09:34am,"2226 4th st n,Minneapolis,MN",Snow Emergency,45.002339,-93.284665,5,Near North,Hawthorne,1,2,Quincy
+-93.291051,44.99141,415,01/29/2019 09:35am,"724 bryant ave n ,Minneapolis,MN",Snow Emergency,44.99141,-93.291051,5,Near North,Near - North,1,2,Quincy
+-93.25412,44.944335,416,01/29/2019 09:35am,"3210 15th ave s,Minneapolis,MN",Snow Emergency,44.944335,-93.25412,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.303708,44.946377,417,01/29/2019 09:36am,"3102 james ave s,Minneapolis,MN",Snow Emergency,44.946377,-93.303708,10,Calhoun Isle,ECCO,5,2,Quincy
+-93.252525,44.987427,418,01/29/2019 09:37am,"422 2nd ave se,Minneapolis,MN",Snow Emergency,44.987427,-93.252525,3,University,Marcy Holmes,4,2,Quincy
+-93.290779,44.988414,419,01/29/2019 09:38am,"1042 aldrich ave n,Minneapolis,MN",Snow Emergency,44.988414,-93.290779,5,Near North,Sumner - Glenwood,1,2,Quincy
+-93.264937,45.004488,420,01/29/2019 09:39am,"1606 3rd st ne,Minneapolis,MN",Snow Emergency,45.004488,-93.264937,3,Northeast,Sheridan,2,2,Quincy
+-93.303683,44.947579,421,01/29/2019 09:39am,"3020 james ave s,Minneapolis,MN",Snow Emergency,44.947579,-93.303683,10,Calhoun Isle,ECCO,5,2,Quincy
+-93.252165,44.987358,422,01/29/2019 09:39am,"428 2nd ave s e,Minneapolis,MN",Snow Emergency,44.987358,-93.252165,3,University,Marcy Holmes,4,2,Quincy
+-93.253963,44.937411,423,01/29/2019 09:41am,"3606 15th ave so,Minneapolis,MN",Snow Emergency,44.937411,-93.253963,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.273196,44.945667,424,01/29/2019 09:43am,"3128 3rd St,Minneapolis,MN",Snow Emergency,44.945667,-93.273196,9,Powderhorn,Central,5,2,Quincy
+-93.256496,44.937982,425,01/29/2019 09:44am,"3542 13th av s,Minneapolis,MN",Snow Emergency,44.937982,-93.256496,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.259989,44.991817,426,01/29/2019 09:44am,"220 4th ave ne,Minneapolis,MN",Snow Emergency,44.991817,-93.259989,3,Northeast,St. Anthony West,2,2,Quincy
+-93.283376,45.012178,427,01/29/2019 09:45am,"3118 3rd st ,Minneapolis,MN",Snow Emergency,45.012178,-93.283376,5,Near North,Hawthorne,1,2,Quincy
+-93.262493,44.993544,428,01/29/2019 09:47am,"136 6th ave ne,Minneapolis,MN",Snow Emergency,44.993544,-93.262493,3,Northeast,St. Anthony West,2,2,Quincy
+-93.300832,44.949883,429,01/29/2019 09:48am,"Humboldt/ The Mall,Minneapolis,MN",Snow Emergency,44.949883,-93.300832,7,Calhoun Isle,East Isles,3,2,Quincy
+-93.258733,44.992306,430,01/29/2019 09:49am,"302 4th ave ne,Minneapolis,MN",Snow Emergency,44.992306,-93.258733,3,Northeast,St. Anthony West,2,2,Quincy
+-93.284941,45.000443,431,01/29/2019 09:49am,"2116 4TH ST N,Minneapolis,MN",Snow Emergency,45.000443,-93.284941,5,Near North,Hawthorne,1,2,Quincy
+-93.258489,44.994938,432,01/29/2019 09:51am,"414 6th ave ne,Minneapolis,MN",Snow Emergency,44.994938,-93.258489,3,Northeast,St. Anthony West,2,2,Quincy
+-93.254021,44.94585,433,01/29/2019 09:51am,"3122 15 ave e,Minneapolis,MN",Snow Emergency,44.94585,-93.254021,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.28114,44.968506,434,01/29/2019 09:53am,"1310 SPTUCE PLACE,Minneapolis,MN",Snow Emergency,44.968506,-93.28114,7,Central,Loring Park,3,2,Quincy
+-93.258668,44.992329,435,01/29/2019 09:57am,"306 4th ave ne,Minneapolis,MN",Snow Emergency,44.992329,-93.258668,3,Northeast,St. Anthony West,2,2,Quincy
+-93.26302,44.995208,436,01/29/2019 10:01am,"204 7th ave ne,Minneapolis,MN",Snow Emergency,44.995208,-93.26302,3,Northeast,St. Anthony West,2,2,Quincy
+-93.250471,44.986103,437,01/29/2019 10:05am,"322 4th st se,Minneapolis,MN",Snow Emergency,44.986103,-93.250471,3,University,Marcy Holmes,4,2,Quincy
+-93.309473,44.981791,438,01/29/2019 10:06am,"2224 4TH ST N,Minneapolis,MN",Snow Emergency,44.981791,-93.309473,5,Near North,Harrison,3,2,Quincy
+-93.292151,44.964108,439,01/29/2019 10:07am,"1906 Colfax Ave s ,Minneapolis,MN",Snow Emergency,44.964108,-93.292151,7,Calhoun Isle,Lowry Hill,3,2,Quincy
+-93.249992,44.985614,440,01/29/2019 10:08am,"324 4 ave se ,Minneapolis,MN",Snow Emergency,44.985614,-93.249992,3,University,Marcy Holmes,4,2,Quincy
+-93.249062,44.986532,441,01/29/2019 10:09am,"404 4th ave se,Minneapolis,MN",Snow Emergency,44.986532,-93.249062,3,University,Marcy Holmes,4,2,Quincy
+-93.249358,44.989089,442,01/29/2019 10:10am,"612 3rd ave se,Minneapolis,MN",Snow Emergency,44.989089,-93.249358,3,University,Marcy Holmes,4,2,Quincy
+-93.300832,44.949883,443,01/29/2019 10:10am,"THE MALL @ HUMBOLDT AVE S,Minneapolis,MN",Snow Emergency,44.949883,-93.300832,7,Calhoun Isle,East Isles,3,2,Quincy
+-93.300832,44.949883,444,01/29/2019 10:16am,"THE MALL @ HUMBOLDT AVE S,Minneapolis,MN",Snow Emergency,44.949883,-93.300832,7,Calhoun Isle,East Isles,3,2,Quincy
+-93.303742,44.947304,445,01/29/2019 10:16am,"3028 James ave s,Minneapolis,MN",Snow Emergency,44.947304,-93.303742,10,Calhoun Isle,ECCO,5,2,Quincy
+-93.254017,44.945959,446,01/29/2019 10:18am,"3118 15th ave s,Minneapolis,MN",Snow Emergency,44.945959,-93.254017,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.253982,44.93747,447,01/29/2019 10:18am,"3604 15th ave,Minneapolis,MN",Snow Emergency,44.93747,-93.253982,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.250143,44.987681,448,01/29/2019 10:20am,"504 3rd ave se,Minneapolis,MN",Snow Emergency,44.987681,-93.250143,3,University,Marcy Holmes,4,2,Quincy
+-93.29565,44.991984,449,01/29/2019 10:20am,"1024 Fremont ave n ,Minneapolis,MN",Snow Emergency,44.991984,-93.29565,5,Near North,Near - North,1,2,Quincy
+-93.257793,44.938382,450,01/29/2019 10:20am,"3534 12th ave,Minneapolis,MN",Snow Emergency,44.938382,-93.257793,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.303717,44.945162,451,01/29/2019 10:21am,"3142 James ave s,Minneapolis,MN",Snow Emergency,44.945162,-93.303717,10,Calhoun Isle,ECCO,5,2,Quincy
+-93.254021,44.945194,452,01/29/2019 10:21am,"3146 15th ave s,Minneapolis,MN",Snow Emergency,44.945194,-93.254021,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.28463,45.009698,453,01/29/2019 10:23am,"2900 4th st n,Minneapolis,MN",Snow Emergency,45.009698,-93.28463,5,Near North,Hawthorne,1,2,Quincy
+-93.303664,44.945812,454,01/29/2019 10:23am,"3120 james ave s,Minneapolis,MN",Snow Emergency,44.945812,-93.303664,10,Calhoun Isle,ECCO,5,2,Quincy
+-93.256438,44.931442,455,01/29/2019 10:25am,"3928 13th Avenue South,Minneapolis,MN",Snow Emergency,44.931442,-93.256438,8,Powderhorn,Bancroft,6,2,Quincy
+-93.303664,44.945557,456,01/29/2019 10:25am,"3128 james ave s,Minneapolis,MN",Snow Emergency,44.945557,-93.303664,10,Calhoun Isle,ECCO,5,2,Quincy
+-93.257802,44.934471,457,01/29/2019 10:28am,"3750 12th Avenue South,Minneapolis,MN",Snow Emergency,44.934471,-93.257802,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.286222,45.017285,458,01/29/2019 10:30am,"3418 6TH ST N,Minneapolis,MN",Snow Emergency,45.017285,-93.286222,4,Camden,McKinley,1,2,Quincy
+-93.28621,45.015399,459,01/29/2019 10:31am,"3312 6th st n,Minneapolis,MN",Snow Emergency,45.015399,-93.28621,4,Camden,McKinley,1,2,Quincy
+-93.284613,45.00421,460,01/29/2019 10:33am,"2414 4th st n,Minneapolis,MN",Snow Emergency,45.00421,-93.284613,5,Near North,Hawthorne,1,2,Quincy
+-93.254021,44.946433,461,01/29/2019 10:33am,"3100 15 avev s,Minneapolis,MN",Snow Emergency,44.946433,-93.254021,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.28622,45.014512,462,01/29/2019 10:34am,"3242 6th st n,Minneapolis,MN",Snow Emergency,45.014512,-93.28622,4,Camden,McKinley,1,2,Quincy
+-93.284632,45.00745,463,01/29/2019 10:37am,"2706 4th st n,Minneapolis,MN",Snow Emergency,45.00745,-93.284632,5,Near North,Hawthorne,1,2,Quincy
+-93.286194,45.004994,464,01/29/2019 10:39am,"2504 6th st n,Minneapolis,MN",Snow Emergency,45.004994,-93.286194,5,Near North,Hawthorne,1,2,Quincy
+-93.247637,44.988516,465,01/29/2019 10:39am,"622 4th ave se,Minneapolis,MN",Snow Emergency,44.988516,-93.247637,3,University,Marcy Holmes,4,2,Quincy
+-93.248611,44.984455,466,01/29/2019 10:41am,"304 5th ave se,Minneapolis,MN",Snow Emergency,44.984455,-93.248611,3,University,Marcy Holmes,4,2,Quincy
+-93.248271,44.985482,467,01/29/2019 10:41am,"400 5th ave se,Minneapolis,MN",Snow Emergency,44.985482,-93.248271,3,University,Marcy Holmes,4,2,Quincy
+-93.300832,44.949883,468,01/29/2019 10:42am,"Humboldt/ The Mall ,Minneapolis,MN",Snow Emergency,44.949883,-93.300832,7,Calhoun Isle,East Isles,3,2,Quincy
+-93.246191,44.987312,469,01/29/2019 10:42am,"606 5th ave se,Minneapolis,MN",Snow Emergency,44.987312,-93.246191,3,University,Marcy Holmes,4,2,Quincy
+-93.254087,44.996735,470,01/29/2019 10:42am,"674 summer st ne,Minneapolis,MN",Snow Emergency,44.996735,-93.254087,3,Northeast,St. Anthony East,2,2,Quincy
+-93.25903,44.938292,471,01/29/2019 10:44am,"3540 11th ave so,Minneapolis,MN",Snow Emergency,44.938292,-93.25903,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.259458,44.996132,472,01/29/2019 10:45am,"410 7th ave ne,Minneapolis,MN",Snow Emergency,44.996132,-93.259458,3,Northeast,St. Anthony West,2,2,Quincy
+-93.252869,44.996751,473,01/29/2019 10:46am,"692 summer st ne,Minneapolis,MN",Snow Emergency,44.996751,-93.252869,3,Northeast,St. Anthony East,2,2,Quincy
+-93.253149,44.996748,474,01/29/2019 10:47am,"688 summer st ne,Minneapolis,MN",Snow Emergency,44.996748,-93.253149,3,Northeast,St. Anthony East,2,2,Quincy
+-93.25352,44.996751,475,01/29/2019 10:50am,"684 summer st ne,Minneapolis,MN",Snow Emergency,44.996751,-93.25352,3,Northeast,St. Anthony East,2,2,Quincy
+-93.291823,44.98294,476,01/29/2019 10:51am,"908 5th av n,Minneapolis,MN",Snow Emergency,44.98294,-93.291823,5,Near North,Sumner - Glenwood,3,2,Quincy
+-93.300832,44.949883,477,01/29/2019 10:53am,"The mall & Humboldt Ave s ,Minneapolis,MN",Snow Emergency,44.949883,-93.300832,7,Calhoun Isle,East Isles,3,2,Quincy
+-93.28625,45.024069,478,01/29/2019 10:53am,"3802 6TH ST N,Minneapolis,MN",Snow Emergency,45.024069,-93.28625,4,Camden,Webber - Camden,1,2,Quincy
+-93.290782,44.998332,479,01/29/2019 10:54am,"1826 Bryant ave n ,Minneapolis,MN",Snow Emergency,44.998332,-93.290782,5,Near North,Near - North,1,2,Quincy
+-93.248581,44.996916,480,01/29/2019 10:54am,"902 summer st ne,Minneapolis,MN",Snow Emergency,44.996916,-93.248581,3,Northeast,St. Anthony East,2,2,Quincy
+-93.254021,44.947963,481,01/29/2019 10:57am,"3010 15th ave s ,Minneapolis,MN",Snow Emergency,44.947963,-93.254021,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.314317,44.999162,482,01/29/2019 10:58am,"1906 Upton ave n ,Minneapolis,MN",Snow Emergency,44.999162,-93.314317,5,Near North,Willard - Hay,1,2,Quincy
+-93.249784,44.98814,483,01/29/2019 11:03am,"518 3rd ace se,Minneapolis,MN",Snow Emergency,44.98814,-93.249784,3,University,Marcy Holmes,4,2,Quincy
+-93.290326,44.982946,484,01/29/2019 11:03am,"818 5TH AV N,Minneapolis,MN",Snow Emergency,44.982946,-93.290326,5,Near North,Sumner - Glenwood,3,2,Quincy
+-93.246032,44.987507,485,01/29/2019 11:04am,"626 5th ave se,Minneapolis,MN",Snow Emergency,44.987507,-93.246032,3,University,Marcy Holmes,4,2,Quincy
+-93.286254,45.024557,486,01/29/2019 11:04am,"3820 6th st n,Minneapolis,MN",Snow Emergency,45.024557,-93.286254,4,Camden,Webber - Camden,1,2,Quincy
+-93.267227,44.997758,487,01/29/2019 11:04am,"120 10th ave ne,Minneapolis,MN",Snow Emergency,44.997758,-93.267227,3,Northeast,St. Anthony West,2,2,Quincy
+-93.28643,45.0122,488,01/29/2019 11:05am,"3120 6th st n,Minneapolis,MN",Snow Emergency,45.0122,-93.28643,5,Near North,Hawthorne,1,2,Quincy
+-93.246318,44.936194,489,01/29/2019 11:05am,"3650 Longfellow ave s,Minneapolis,MN",Snow Emergency,44.936194,-93.246318,12,Powderhorn,Standish,6,2,Quincy
+-93.246621,44.987074,490,01/29/2019 11:07am,"528 5th ave se,Minneapolis,MN",Snow Emergency,44.987074,-93.246621,3,University,Marcy Holmes,4,2,Quincy
+-93.286429,45.012223,491,01/29/2019 11:08am,"3122 6th st n ,Minneapolis,MN",Snow Emergency,45.012223,-93.286429,5,Near North,Hawthorne,1,2,Quincy
+-93.255899,44.93793,492,01/29/2019 11:10am,"1306 36th st e,Minneapolis,MN",Snow Emergency,44.93793,-93.255899,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.249696,44.988252,493,01/29/2019 11:12am,"524 3rd ave se ,Minneapolis,MN",Snow Emergency,44.988252,-93.249696,3,University,Marcy Holmes,4,2,Quincy
+-93.292692,44.982898,494,01/29/2019 11:15am,"1012 5TH AV N,Minneapolis,MN",Snow Emergency,44.982898,-93.292692,5,Near North,Sumner - Glenwood,3,2,Quincy
+-93.286281,45.024853,495,01/29/2019 11:19am,"3830 6 TH ST N,Minneapolis,MN",Snow Emergency,45.024853,-93.286281,4,Camden,Webber - Camden,1,2,Quincy
+-93.30209,44.950096,496,01/29/2019 11:25am,"Irving/ The Mall,Minneapolis,MN",Snow Emergency,44.950096,-93.30209,7,Calhoun Isle,East Isles,3,2,Quincy
+-93.300832,44.949883,497,01/29/2019 11:27am,"THE MALL @ HUMBOLDT AVE S,Minneapolis,MN",Snow Emergency,44.949883,-93.300832,7,Calhoun Isle,East Isles,3,2,Quincy
+-93.302886,44.941329,498,01/29/2019 11:27am,"1602 34 st e,Minneapolis,MN",Snow Emergency,44.941329,-93.302886,10,Calhoun Isle,ECCO,5,2,Quincy
+-93.315608,44.985988,499,01/29/2019 11:28am,"730 Vincent ave n ,Minneapolis,MN",Snow Emergency,44.985988,-93.315608,5,Near North,Willard - Hay,1,2,Quincy
+-93.259011,44.935286,500,01/29/2019 11:28am,"3720 11th Avenue South,Minneapolis,MN",Snow Emergency,44.935286,-93.259011,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.28345,44.96632,501,01/29/2019 11:30am,"304 clifton ave,Minneapolis,MN",Snow Emergency,44.96632,-93.28345,7,Central,Loring Park,3,2,Quincy
+-93.30458,44.950025,502,01/29/2019 11:30am,"1773 THE MALL,Minneapolis,MN",Snow Emergency,44.950025,-93.30458,7,Calhoun Isle,East Isles,3,2,Quincy
+-93.266588,44.996145,503,01/29/2019 11:31am,"126 9th ave ne,Minneapolis,MN",Snow Emergency,44.996145,-93.266588,3,Northeast,St. Anthony West,2,2,Quincy
+-93.286227,45.023012,504,01/29/2019 11:31am,"3724 6th st n,Minneapolis,MN",Snow Emergency,45.023012,-93.286227,4,Camden,McKinley,1,2,Quincy
+-93.262158,44.930841,505,01/29/2019 11:31am,"826 40th Street East,Minneapolis,MN",Snow Emergency,44.930841,-93.262158,8,Powderhorn,Bancroft,6,2,Quincy
+-93.314323,45.003891,506,01/29/2019 11:33am,"2350 Upton ave n ,Minneapolis,MN",Snow Emergency,45.003891,-93.314323,5,Near North,Willard - Hay,1,2,Quincy
+-93.247958,44.988219,507,01/29/2019 11:36am,"604 4th ave se,Minneapolis,MN",Snow Emergency,44.988219,-93.247958,3,University,Marcy Holmes,4,2,Quincy
+-93.252359,44.935934,508,01/29/2019 11:37am,"1528 37th st e,Minneapolis,MN",Snow Emergency,44.935934,-93.252359,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.301147,44.942569,509,01/29/2019 11:38am,"3316 humboldt ave s,Minneapolis,MN",Snow Emergency,44.942569,-93.301147,10,Calhoun Isle,ECCO,5,2,Quincy
+-93.256571,45.001501,510,01/29/2019 11:39am,"1316 adams st ne,Minneapolis,MN",Snow Emergency,45.001501,-93.256571,1,Northeast,Logan Park,2,2,Quincy
+-93.286216,45.019291,511,01/29/2019 11:40am,"3526 6th st n,Minneapolis,MN",Snow Emergency,45.019291,-93.286216,4,Camden,McKinley,1,2,Quincy
+-93.283718,44.966042,512,01/29/2019 11:41am,"308 Clifton Ave ,Minneapolis,MN",Snow Emergency,44.966042,-93.283718,7,Central,Loring Park,3,2,Quincy
+-93.304217,44.98176,513,01/29/2019 11:41am,"1818 4TH AV N,Minneapolis,MN",Snow Emergency,44.98176,-93.304217,5,Near North,Harrison,3,2,Quincy
+-93.261683,44.944393,514,01/29/2019 11:42am,"3208 Elliott ave,Minneapolis,MN",Snow Emergency,44.944393,-93.261683,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.256568,45.000275,515,01/29/2019 11:44am,"1218 Adams st ne,Minneapolis,MN",Snow Emergency,45.000275,-93.256568,1,Northeast,Logan Park,2,2,Quincy
+-93.300973,44.943304,516,01/29/2019 11:45am,"1502 33rd st w,Minneapolis,MN",Snow Emergency,44.943304,-93.300973,10,Calhoun Isle,ECCO,5,2,Quincy
+-93.256278,45.005662,517,01/29/2019 11:45am,"1728 adams st ne,Minneapolis,MN",Snow Emergency,45.005662,-93.256278,1,Northeast,Logan Park,2,2,Quincy
+-93.24966,44.988718,518,01/29/2019 11:46am,"602 3RD AVE SE,Minneapolis,MN",Snow Emergency,44.988718,-93.24966,3,University,Marcy Holmes,4,2,Quincy
+-93.301245,44.94284,519,01/29/2019 11:46am,"3306 humboldt ave s,Minneapolis,MN",Snow Emergency,44.94284,-93.301245,10,Calhoun Isle,ECCO,5,2,Quincy
+-93.283998,44.966434,520,01/29/2019 11:46am,"314 CLIFTON AVE,Minneapolis,MN",Snow Emergency,44.966434,-93.283998,7,Central,Loring Park,3,2,Quincy
+-93.246557,44.985332,521,01/29/2019 11:46am,"422 6th ave se,Minneapolis,MN",Snow Emergency,44.985332,-93.246557,3,University,Marcy Holmes,4,2,Quincy
+-93.246725,44.987453,522,01/29/2019 11:47am,"600 5th ave se,Minneapolis,MN",Snow Emergency,44.987453,-93.246725,3,University,Marcy Holmes,4,2,Quincy
+-93.301108,44.945667,523,01/29/2019 11:48am,"3124 humboldt ave s,Minneapolis,MN",Snow Emergency,44.945667,-93.301108,10,Calhoun Isle,ECCO,5,2,Quincy
+-93.2496,44.988793,524,01/29/2019 11:50am,"604 3RD AVE SE,Minneapolis,MN",Snow Emergency,44.988793,-93.2496,3,University,Marcy Holmes,4,2,Quincy
+-93.253273,44.936097,525,01/29/2019 11:50am,"1506 37th st,Minneapolis,MN",Snow Emergency,44.936097,-93.253273,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.25905,44.940205,526,01/29/2019 11:54am,"3440 11th ave s,Minneapolis,MN",Snow Emergency,44.940205,-93.25905,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.262133,44.930841,527,01/29/2019 11:57am,"828 40th st,Minneapolis,MN",Snow Emergency,44.930841,-93.262133,8,Powderhorn,Bancroft,6,2,Quincy
+-93.28624,45.020403,528,01/29/2019 11:58am,"3602 6th st n,Minneapolis,MN",Snow Emergency,45.020403,-93.28624,4,Camden,McKinley,1,2,Quincy
+-93.262338,44.930553,529,01/29/2019 11:59am,"812 40th st,Minneapolis,MN",Snow Emergency,44.930553,-93.262338,8,Powderhorn,Bancroft,6,2,Quincy
+-93.289035,45.015671,530,01/29/2019 11:59am,"3320 ALDRICH AVE N,Minneapolis,MN",Snow Emergency,45.015671,-93.289035,4,Camden,McKinley,1,2,Quincy
+-93.279643,45.00496,531,01/29/2019 12:00am,"2500 2ND ST N ,Minneapolis,MN",Snow Emergency,45.00496,-93.279643,5,Near North,Hawthorne,1,1,Quincy
+-93.256282,45.005461,532,01/29/2019 12:01pm,"1714 adams st ne,Minneapolis,MN",Snow Emergency,45.005461,-93.256282,1,Northeast,Logan Park,2,2,Quincy
+-93.289029,45.009034,533,01/29/2019 12:02pm,"2814 Aldrich Ave n,Minneapolis,MN",Snow Emergency,45.009034,-93.289029,5,Near North,Hawthorne,1,2,Quincy
+-93.273138,44.961344,534,01/29/2019 12:03pm,"2108 3RD AVE N,Minneapolis,MN",Snow Emergency,44.961344,-93.273138,10,Powderhorn,Whittier,3,2,Quincy
+-93.25628,45.005604,535,01/29/2019 12:04pm,"1724 adams st ne,Minneapolis,MN",Snow Emergency,45.005604,-93.25628,1,Northeast,Logan Park,2,2,Quincy
+-93.279643,45.00496,536,01/29/2019 12:07am,"2500 2ND ST N ,Minneapolis,MN",Snow Emergency,45.00496,-93.279643,5,Near North,Hawthorne,1,1,Quincy
+-93.293201,44.950484,537,01/29/2019 12:08am,"2834 DUPONT AVE S,Minneapolis,MN",Snow Emergency,44.950484,-93.293201,10,Calhoun Isle,Lowry Hill East,3,1,Quincy
+-93.294739,44.951,538,01/29/2019 12:08am,"2834 Emerson Ave S,Minneapolis,MN",Snow Emergency,44.951,-93.294739,10,Calhoun Isle,Lowry Hill East,3,1,Quincy
+-93.244828,44.984746,539,01/29/2019 12:08pm,"414 6th ave se,Minneapolis,MN",Snow Emergency,44.984746,-93.244828,3,University,Marcy Holmes,4,2,Quincy
+-93.313024,44.997219,540,01/29/2019 12:08pm,"1704 Thomas ave n ,Minneapolis,MN",Snow Emergency,44.997219,-93.313024,5,Near North,Willard - Hay,1,2,Quincy
+-93.273078,44.944833,541,01/29/2019 12:09am,"3200 3RD AVE S,Minneapolis,MN",Snow Emergency,44.944833,-93.273078,9,Powderhorn,Central,5,1,Quincy
+-93.289029,45.025887,542,01/29/2019 12:09pm,"3900 aldrich ave n,Minneapolis,MN",Snow Emergency,45.025887,-93.289029,4,Camden,Webber - Camden,1,2,Quincy
+-93.293661,44.950687,543,01/29/2019 12:12am,"2836 dupont ave s,Minneapolis,MN",Snow Emergency,44.950687,-93.293661,10,Calhoun Isle,Lowry Hill East,3,1,Quincy
+-93.273078,44.944833,544,01/29/2019 12:12am,"3200 blk 3rd ave s,Minneapolis,MN",Snow Emergency,44.944833,-93.273078,9,Powderhorn,Central,5,1,Quincy
+-93.313001,44.997256,545,01/29/2019 12:13pm,"1706 thomas ave n ,Minneapolis,MN",Snow Emergency,44.997256,-93.313001,5,Near North,Willard - Hay,1,2,Quincy
+-93.294725,44.951577,546,01/29/2019 12:14am,"2804 EMERSON AVE S,Minneapolis,MN",Snow Emergency,44.951577,-93.294725,10,Calhoun Isle,Lowry Hill East,3,1,Quincy
+-93.27569,44.96485,547,01/29/2019 12:15pm,"1808 stevens s,Minneapolis,MN",Snow Emergency,44.96485,-93.27569,6,Central,Steven's Square - Loring Heights,3,2,Quincy
+-93.279316,45.003058,548,01/29/2019 12:16am,"2300 2ND ST N ,Minneapolis,MN",Snow Emergency,45.003058,-93.279316,5,Near North,Hawthorne,1,1,Quincy
+-93.252961,44.936078,549,01/29/2019 12:16pm,"1512 37 ave e,Minneapolis,MN",Snow Emergency,44.936078,-93.252961,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.244804,44.982494,550,01/29/2019 12:17am,"800 block of university Ave se ,Minneapolis,MN",Snow Emergency,44.982494,-93.244804,3,University,Marcy Holmes,4,1,Quincy
+-93.244806,44.984734,551,01/29/2019 12:17pm,"422 7th ave se,Minneapolis,MN",Snow Emergency,44.984734,-93.244806,3,University,Marcy Holmes,4,2,Quincy
+-93.275636,44.965005,552,01/29/2019 12:18pm,"1802 STEVENS AVE S ,Minneapolis,MN",Snow Emergency,44.965005,-93.275636,6,Central,Steven's Square - Loring Heights,3,2,Quincy
+-93.243995,44.982864,553,01/29/2019 12:19am,"8TH & UNIVERSITY AVE SE,Minneapolis,MN",Snow Emergency,44.982864,-93.243995,3,University,Marcy Holmes,4,1,Quincy
+-93.279416,45.00393,554,01/29/2019 12:19am,"2400 2ND ST N ,Minneapolis,MN",Snow Emergency,45.00393,-93.279416,5,Near North,Hawthorne,1,1,Quincy
+-93.275648,44.964487,555,01/29/2019 12:19pm,"1820 Stevens ave s ,Minneapolis,MN",Snow Emergency,44.964487,-93.275648,6,Central,Steven's Square - Loring Heights,3,2,Quincy
+-93.246128,44.98304,556,01/29/2019 12:20am,"700 BLOCK OF UNIVERSITY AVE SE,Minneapolis,MN",Snow Emergency,44.98304,-93.246128,3,University,Marcy Holmes,4,1,Quincy
+-93.289082,45.008813,557,01/29/2019 12:20pm,"2806 Aldrich Ave n ,Minneapolis,MN",Snow Emergency,45.008813,-93.289082,5,Near North,Hawthorne,1,2,Quincy
+-93.279416,45.00393,558,01/29/2019 12:21am,"2400 block 2nd st n ,Minneapolis,MN",Snow Emergency,45.00393,-93.279416,5,Near North,Hawthorne,1,1,Quincy
+-93.244021,44.983458,559,01/29/2019 12:21am,"800 4TH ST SE,Minneapolis,MN",Snow Emergency,44.983458,-93.244021,3,University,Marcy Holmes,4,1,Quincy
+-93.270012,44.946443,560,01/29/2019 12:22am,"3103 4th ave,Minneapolis,MN",Snow Emergency,44.946443,-93.270012,9,Powderhorn,Central,5,1,Quincy
+-93.289096,45.028877,561,01/29/2019 12:22pm,"4044 ALDRICH AVE N,Minneapolis,MN",Snow Emergency,45.028877,-93.289096,4,Camden,Webber - Camden,1,2,Quincy
+-93.252753,44.941035,562,01/29/2019 12:23am,"3406 BLOOMINGTON AVE S,Minneapolis,MN",Snow Emergency,44.941035,-93.252753,9,Powderhorn,Powderhorn Park,6,1,Quincy
+-93.259247,45.004998,563,01/29/2019 12:23pm,"1628 6th st ne,Minneapolis,MN",Snow Emergency,45.004998,-93.259247,3,Northeast,Sheridan,2,2,Quincy
+-93.245207,44.988825,564,01/29/2019 12:23pm,"716 5th ave se,Minneapolis,MN",Snow Emergency,44.988825,-93.245207,3,University,Marcy Holmes,4,2,Quincy
+-93.293799,44.951192,565,01/29/2019 12:25am,"2820 DUPONT AVE S,Minneapolis,MN",Snow Emergency,44.951192,-93.293799,10,Calhoun Isle,Lowry Hill East,3,1,Quincy
+-93.279643,45.00496,566,01/29/2019 12:25am,"2500 2ND ST N ,Minneapolis,MN",Snow Emergency,45.00496,-93.279643,5,Near North,Hawthorne,1,1,Quincy
+-93.252008,44.929971,567,01/29/2019 12:25am,"4013 BLOOMINGTON AVE S,Minneapolis,MN",Snow Emergency,44.929971,-93.252008,8,Powderhorn,Bancroft,6,1,Quincy
+-93.260539,45.005837,568,01/29/2019 12:25pm,"1716 5th st ne,Minneapolis,MN",Snow Emergency,45.005837,-93.260539,1,Northeast,Holland,2,2,Quincy
+-93.246128,44.98304,569,01/29/2019 12:26am,"700 BLOCK OF UNIVERSITY AVE SE,Minneapolis,MN",Snow Emergency,44.98304,-93.246128,3,University,Marcy Holmes,4,1,Quincy
+-93.279643,45.00496,570,01/29/2019 12:26am,"2500 block 2nd st n ,Minneapolis,MN",Snow Emergency,45.00496,-93.279643,5,Near North,Hawthorne,1,1,Quincy
+-93.254003,45.003908,571,01/29/2019 12:26pm,"1526 Madison st ne,Minneapolis,MN",Snow Emergency,45.003908,-93.254003,1,Northeast,Logan Park,2,2,Quincy
+-93.25467,44.943101,572,01/29/2019 12:26pm,"1406 33rd st e,Minneapolis,MN",Snow Emergency,44.943101,-93.25467,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.252542,44.936095,573,01/29/2019 12:27pm,"1522 37th st e,Minneapolis,MN",Snow Emergency,44.936095,-93.252542,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.250172,44.944465,574,01/29/2019 12:27pm,"3204 17th Avenue South,Minneapolis,MN",Snow Emergency,44.944465,-93.250172,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.266258,44.968325,575,01/29/2019 12:28am,"630 15th St E,Minneapolis,MN",Snow Emergency,44.968325,-93.266258,7,Central,Elliot Park,3,1,Quincy
+-93.27951,45.00627,576,01/29/2019 12:29am,"2600 2ND ST N ,Minneapolis,MN",Snow Emergency,45.00627,-93.27951,5,Near North,Hawthorne,1,1,Quincy
+-93.274331,44.963381,577,01/29/2019 12:30pm,"1916 2nd ave s,Minneapolis,MN",Snow Emergency,44.963381,-93.274331,6,Central,Steven's Square - Loring Heights,3,2,Quincy
+-93.279534,45.007719,578,01/29/2019 12:31am,"2700 2ND ST N ,Minneapolis,MN",Snow Emergency,45.007719,-93.279534,5,Near North,Hawthorne,1,1,Quincy
+-93.260353,45.008277,579,01/29/2019 12:31pm,"1924 5th st ne,Minneapolis,MN",Snow Emergency,45.008277,-93.260353,1,Northeast,Holland,2,2,Quincy
+-93.254086,44.942748,580,01/29/2019 12:32pm,"3302 15th Avenue South,Minneapolis,MN",Snow Emergency,44.942748,-93.254086,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.252035,44.930054,581,01/29/2019 12:34am,"4011 BLOOMINGTON AVE S,Minneapolis,MN",Snow Emergency,44.930054,-93.252035,8,Powderhorn,Bancroft,6,1,Quincy
+-93.252136,44.944409,582,01/29/2019 12:34am,"3205 BLOOMINGTON AVE S,Minneapolis,MN",Snow Emergency,44.944409,-93.252136,9,Powderhorn,Powderhorn Park,6,1,Quincy
+-93.232537,44.91063,583,01/29/2019 12:36am,"5100 28TH AVE S,Minneapolis,MN",Snow Emergency,44.91063,-93.232537,11,Nokomis,Keewaydin,6,1,Quincy
+-93.252018,44.930092,584,01/29/2019 12:37am,"4009 BLOOMINGTON AVE S,Minneapolis,MN",Snow Emergency,44.930092,-93.252018,8,Powderhorn,Bancroft,6,1,Quincy
+-93.252674,44.934484,585,01/29/2019 12:39am,"3738 BLOOMINGTON AVE S,Minneapolis,MN",Snow Emergency,44.934484,-93.252674,9,Powderhorn,Powderhorn Park,6,1,Quincy
+-93.252647,44.974617,586,01/29/2019 12:39pm,"312 12th ave s,Minneapolis,MN",Snow Emergency,44.974617,-93.252647,3,Central,Downtown East,3,2,Quincy
+-93.293445,44.950946,587,01/29/2019 12:40am,"2828 DUPONT AV S,Minneapolis,MN",Snow Emergency,44.950946,-93.293445,10,Calhoun Isle,Lowry Hill East,3,1,Quincy
+-93.248914,44.936794,588,01/29/2019 12:40pm,"3630 18th ave s,Minneapolis,MN",Snow Emergency,44.936794,-93.248914,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.244242,44.985531,589,01/29/2019 12:41pm,"510 6th ave se,Minneapolis,MN",Snow Emergency,44.985531,-93.244242,3,University,Marcy Holmes,4,2,Quincy
+-93.251723,44.944913,590,01/29/2019 12:41pm,"1536 32nd st,Minneapolis,MN",Snow Emergency,44.944913,-93.251723,9,Powderhorn,Powderhorn Park,6,2,Quincy
+-93.260539,45.005837,591,01/29/2019 12:42pm,"1716 5th st ne,Minneapolis,MN",Snow Emergency,45.005837,-93.260539,1,Northeast,Holland,2,2,Quincy
+-93.311755,44.994539,592,01/29/2019 12:42pm,"1512 Sheridan ave n ,Minneapolis,MN",Snow Emergency,44.994539,-93.311755,5,Near North,Willard - Hay,1,2,Quincy
+-93.273661,44.965222,593,01/29/2019 12:43pm,"228 18th st e,Minneapolis,MN",Snow Emergency,44.965222,-93.273661,6,Central,Steven's Square - Loring Heights,3,2,Quincy
+-93.243945,44.985756,594,01/29/2019 12:43pm,"514 7TH AVE SE,Minneapolis,MN",Snow Emergency,44.985756,-93.243945,3,University,Marcy Holmes,4,2,Quincy
+-93.251541,44.998011,595,01/29/2019 12:43pm,"736 quincy st ne,Minneapolis,MN",Snow Emergency,44.998011,-93.251541,3,Northeast,St. Anthony East,2,2,Quincy
+-93.301373,44.944586,596,01/29/2019 12:43pm,"1540 32nd st,Minneapolis,MN",Snow Emergency,44.944586,-93.301373,10,Calhoun Isle,ECCO,5,2,Quincy
+-93.293675,44.95107,597,01/29/2019 12:45am,"2824 DUPONT AVE S,Minneapolis,MN",Snow Emergency,44.95107,-93.293675,10,Calhoun Isle,Lowry Hill East,3,1,Quincy
+-93.238518,44.941894,598,01/29/2019 12:46am,"3331 23RD AVE S,Minneapolis,MN",Snow Emergency,44.941894,-93.238518,9,Powderhorn,Corcoran,6,1,Quincy
+-93.293674,44.95113,599,01/29/2019 12:46am,"2822 DUPONT AVE S,Minneapolis,MN",Snow Emergency,44.95113,-93.293674,10,Calhoun Isle,Lowry Hill East,3,1,Quincy
+-93.311811,44.994483,600,01/29/2019 12:46pm,"1510 Sheridan ave n ,Minneapolis,MN",Snow Emergency,44.994483,-93.311811,5,Near North,Willard - Hay,1,2,Quincy
+-93.299306,44.939367,601,01/29/2019 12:46pm,"3505 Holmes ave s,Minneapolis,MN",Snow Emergency,44.939367,-93.299306,10,Calhoun Isle,ECCO,5,2,Quincy
+-93.242474,44.987779,602,01/29/2019 12:47pm,"726 7th ave se,Minneapolis,MN",Snow Emergency,44.987779,-93.242474,3,University,Marcy Holmes,4,2,Quincy
+-93.276233,44.988836,603,01/29/2019 12:48am,"700 2ND ST N ,Minneapolis,MN",Snow Emergency,44.988836,-93.276233,3,Central,North Loop,1,1,Quincy
+-93.242784,44.987386,604,01/29/2019 12:49pm,"704 7TH AVE SE,Minneapolis,MN",Snow Emergency,44.987386,-93.242784,3,University,Marcy Holmes,4,2,Quincy
+-93.243821,44.985913,605,01/29/2019 12:49pm,"528 7th ave se,Minneapolis,MN",Snow Emergency,44.985913,-93.243821,3,University,Marcy Holmes,4,2,Quincy
+-93.274723,44.965403,606,01/29/2019 12:50pm,"148 18TH ST E,Minneapolis,MN",Snow Emergency,44.965403,-93.274723,6,Central,Steven's Square - Loring Heights,3,2,Quincy
+-93.249422,44.983676,607,01/29/2019 12:51am,"200 5TH AVE SE,Minneapolis,MN",Snow Emergency,44.983676,-93.249422,3,University,Marcy Holmes,4,1,Quincy
+-93.249422,44.983676,608,01/29/2019 12:51am,"200 5TH AVE SE,Minneapolis,MN",Snow Emergency,44.983676,-93.249422,3,University,Marcy Holmes,4,1,Quincy
+-93.279416,45.00393,609,01/29/2019 12:51am,"2400 2ND ST N ,Minneapolis,MN",Snow Emergency,45.00393,-93.279416,5,Near North,Hawthorne,1,1,Quincy
+-93.247503,44.985935,610,01/29/2019 12:51pm,"418 5th ave se,Minneapolis,MN",Snow Emergency,44.985935,-93.247503,3,University,Marcy Holmes,4,2,Quincy
+-93.273357,44.987222,611,01/29/2019 12:53am,"500 2ND ST N,Minneapolis,MN",Snow Emergency,44.987222,-93.273357,3,Central,North Loop,1,1,Quincy
+-93.273965,44.965224,612,01/29/2019 12:53pm,"204 18th st e ,Minneapolis,MN",Snow Emergency,44.965224,-93.273965,6,Central,Steven's Square - Loring Heights,3,2,Quincy
+-93.311784,44.99937,613,01/29/2019 12:53pm,"1918 Sheridan Ave n,Minneapolis,MN",Snow Emergency,44.99937,-93.311784,5,Near North,Willard - Hay,1,2,Quincy
+-93.311738,45.001705,614,01/29/2019 12:56pm,"2202 Sheridan Ave n ,Minneapolis,MN",Snow Emergency,45.001705,-93.311738,5,Near North,Willard - Hay,1,2,Quincy
+-93.251449,44.998036,615,01/29/2019 12:56pm,"738 quincy st ne,Minneapolis,MN",Snow Emergency,44.998036,-93.251449,3,Northeast,St. Anthony East,2,2,Quincy
+-93.290932,44.957478,616,01/29/2019 12:57am,"900 25TH ST NE,Minneapolis,MN",Snow Emergency,44.957478,-93.290932,10,Calhoun Isle,Lowry Hill East,3,1,Quincy
+-93.279416,45.00393,617,01/29/2019 12:58am,"2400 2ND ST N ,Minneapolis,MN",Snow Emergency,45.00393,-93.279416,5,Near North,Hawthorne,1,1,Quincy
