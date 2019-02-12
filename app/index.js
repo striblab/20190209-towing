@@ -79,12 +79,12 @@ mapboxgl.accessToken = 'pk.eyJ1Ijoic2hhZG93ZmxhcmUiLCJhIjoiS3pwY1JTMCJ9.pTSXx_LF
 
 var dzoom = 10.5;
 var mzoom = 10.5;
+var latlong = [-93.267278, 44.965363];
 
 var map = new mapboxgl.Map({
-    container: 'tags', // container id
+    container: 'tags',
     style: 'mapbox://styles/shadowflare/ciqzo0bu20004bknkbrhrm6wf',
-    // center: [-93.264313, 44.973269], 
-    center: [-93.264313, 44.973269], 
+    center: latlong, 
     zoom: dzoom,
     minZoom: mzoom
 });
@@ -136,11 +136,11 @@ map.addSource('mpls', {
             "stops": [
               [0, "rgba(255, 255, 255, 0)"],
               [1, "#D1E6E1"],
-              [20, "#A7E6E3"],
-              [40, "#67B4C2"],
-              [60, "#3580A3"],
-              [80, "#0D4673"],
-              [100, "#0D4673"]
+              [50, "#A7E6E3"],
+              [100, "#67B4C2"],
+              [150, "#3580A3"],
+              [200, "#0D4673"],
+              [250, "#0D4673"]
            ]
         },
            'fill-outline-color': {
@@ -156,7 +156,7 @@ map.addSource('mpls', {
            ]
         }
      }
-   }, 'road-primary');
+   }, 'road-street');
 
 
 map.addSource('tows', {
@@ -173,116 +173,38 @@ map.addSource('tows', {
                     "circle-color": '#E07242',
                     "circle-opacity": 0.6
                  }
-                 // "filter": ["==", "disp_cat", "incident"]
        }, 'place-neighbourhood');
 
-// var map2 = new mapboxgl.Map({
-//     container: 'tows', // container id
-//     style: 'mapbox://styles/shadowflare/ciqzo0bu20004bknkbrhrm6wf',
-//     // center: [-93.264313, 44.973269], 
-//     center: [-93.264313, 44.973269], 
-//     zoom: dzoom,
-//     minZoom: mzoom
-// });
-
-// // map2.addControl(new mapboxgl.NavigationControl());
-// map2.scrollZoom.disable();
-// map2.doubleClickZoom.disable();
-
-
-// map2.on('load', function() {
-
-// //TOWS
-//  map2.addSource('tows', {
-//    type: 'geojson',
-//    data: './shapefiles/tows_hex.geojson'
-//  });
-
-//   map2.addLayer({
-//        'id': 'tows-layer',
-//        'interactive': true,
-//        'source': 'tows',
-//        'layout': {},
-//        'type': 'fill',
-//             'paint': {
-//            'fill-antialias' : true,
-//            'fill-opacity': 0.7,
-//            'fill-color': {
-//             "property": "NUMPOINTS",
-//             "stops": [
-//               [0, "rgba(255, 255, 255, 0)"],
-//               [1, "#D1E6E1"],
-//               [10, "#A7E6E3"],
-//               [20, "#67B4C2"],
-//               [30, "#3580A3"],
-//               [40, "#0D4673"],
-//               [50, "#0D4673"]
-//            ]
-//         },
-//            'fill-outline-color': {
-//             "property": "NUMPOINTS",
-//             "stops": [
-//               [0, "rgba(255, 255, 255, 0)"],
-//               [1, "#888888"],
-//               [20, "#888888"],
-//               [40, "#888888"],
-//               [60, "#888888"],
-//               [80, "#888888"],
-//               [100, "#888888"]
-//            ]
-//         }
-//      }
-//    }, 'road-primary');
 
 });
 
 $(document).ready(function() {
   if ($("#wrapper").width() < 600) {
       map.flyTo({
-        center: [-93.264313, 44.973269], 
+        center: latlong, 
         zoom: mzoom,
         minZoom: mzoom
       });
-      // map2.flyTo({
-      //   center: [-93.264313, 44.973269], 
-      //   zoom: mzoom,
-      //   minZoom: mzoom
-      // });
   } else {
       map.flyTo({
-        center: [-93.264313, 44.973269],  
+        center: latlong,  
         zoom: dzoom,
         minZoom: mzoom
       });
-      // map2.flyTo({
-      //   center: [-93.264313, 44.973269],  
-      //   zoom: dzoom,
-      //   minZoom: mzoom
-      // });
   }
   $(window).resize(function() {
       if ($("#wrapper").width() < 600) {
           map.flyTo({
-            center: [-93.264313, 44.973269],  
+            center: latlong,  
             zoom: mzoom,
             minZoom: mzoom
           });
-          // map2.flyTo({
-          //   center: [-93.264313, 44.973269],  
-          //   zoom: mzoom,
-          //   minZoom: mzoom
-          // });
       } else {
           map.flyTo({
-            center: [-93.264313, 44.973269],  
+            center: latlong,  
             zoom: dzoom,
             minZoom: mzoom
           });
-          // map2.flyTo({
-          //   center: [-93.264313, 44.973269],  
-          //   zoom: dzoom,
-          //   minZoom: mzoom
-          // });
       }
   });
 });
